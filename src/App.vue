@@ -14,8 +14,17 @@ import MenuBar from './components/MenuBar.vue'
 <style>
 @import url(main.css);
 
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;600;700&family=Dancing+Script:wght@400;500;600;700&family=Satisfy&display=swap');
+/* font-family: 'Caveat', cursive;
+font-family: 'Dancing Script', cursive;
+font-family: 'Satisfy', cursive; */
+
+
+
 *{
   color: rgba(255, 255, 255, 0.9);
+  font-family: 'Satisfy', cursive;
+  font-weight: 400
 }
 body{
   background-color: rgb(149, 146, 146);

@@ -7,29 +7,29 @@
       
       <nav class="flex space-x-12 justify-around wrap w-5/6 " >
 
-        <span class="text-2xl text w-32 prevent-select">
+        <span class="text-4xl text w-32 prevent-select">
 
         <RouterLink to="/">
           Home
         </RouterLink></span>
 
-        <span class="text-2xl text w-32 prevent-select">
+        <span class="text-4xl text w-32 prevent-select">
 
         <RouterLink to="/About">
           About
         </RouterLink></span>
 
-        <span class="text-2xl text w-32 h-auto prevent-select">
+        <span class="text-4xl text w-32 h-auto prevent-select">
 
         <RouterLink to="/posts">
          Posts
         </RouterLink></span>
-        <span class="text-2xl text w-32 h-auto prevent-select">
+        <span class="text-4xl text w-32 h-auto prevent-select">
 
         <RouterLink to="/Contact">
          Contact
         </RouterLink></span>
-        <span class="text-2xl text w-48 h-auto prevent-select">
+        <span class="text-4xl text w-48 h-auto prevent-select">
 
         <RouterLink to="/Login">
          Login/Register
@@ -42,11 +42,11 @@
     </header>
     <div class="border-spacing-6 border-2 border-white p-3 w-full h-auto">
       <nav class="flex space-x-6 justify-center wrap">
-      <span class="text-2xl text w-32 h-auto prevent-select">Posts</span>
-      <span class="text-2xl text w-32 h-auto prevent-select">Posts</span>
-      <span class="text-2xl text w-32 h-auto prevent-select">Posts</span>
-      <span class="text-2xl text w-32 h-auto prevent-select">Postswdw</span>
-      <span class="text-2xl text w-48 h-auto prevent-select">PostsdwdwdPosts</span>
+      <span class="text-4xl text w-32 h-auto prevent-select">Posts</span>
+      <span class="text-4xl text w-32 h-auto prevent-select">Posts</span>
+      <span class="text-4xl text w-32 h-auto prevent-select">Posts</span>
+      <span class="text-4xl text w-32 h-auto prevent-select">Postswdw</span>
+      <span class="text-4xl text w-48 h-auto prevent-select">PostsdwdwdPosts</span>
       </nav>
     </div>
 </template>
