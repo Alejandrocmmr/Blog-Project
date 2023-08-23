@@ -29,7 +29,7 @@ const router = createRouter({
     },
     {
       path: '/Login',
-      name: 'Login',
+      name: 'LoginPage',
       component: () => import('../views/LoginView.vue')
     },
     {
@@ -61,6 +61,16 @@ const router = createRouter({
       path: '/Home/GeneralDiscussions',
       name: 'GeneralDiscussions',
       component: () => import('../components/sidebar/GeneralDiscussionsBar.vue')
+    },
+    {
+      path: '/Login/Register',
+      name: 'Register',
+      component: () => import('../components/LoginAndRegister/RegisterPage.vue')
+    },
+    {
+      path: '/Login/Login',
+      name: 'Login',
+      component: () => import('../components/LoginAndRegister/LoginPage.vue')
     }
   ]
 })

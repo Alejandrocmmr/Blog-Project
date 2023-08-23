@@ -1,97 +1,75 @@
-<script setup lang="ts">
-
-</script>
+<script setup lang="ts"></script>
 
 <template>
-
-    <aside class="border-4  flex flex-wrap flex-col h-auto w-1/12 text-center sidebar justify-between">
-
-<!-----------------------------------------------DIVISOR----------------------------------------------->
-
-    <section class=""><span class="text w-32 prevent-select">
+  <aside class="border-4 flex flex-wrap flex-col h-auto w-1/12 text-center sidebar justify-between">
+    <!-----------------------------------------------DIVISOR----------------------------------------------->
 
     <RouterLink to="/Home/News">
-      News
-    </RouterLink></span></section>
+      <section class=""><span class="text w-32 prevent-select"> News </span></section>
+    </RouterLink>
 
     <p class="w-full prevent-select"></p>
 
-
-<!-----------------------------------------------DIVISOR----------------------------------------------->
-    <section class=""><span class="text w-32 prevent-select">
+    <!-----------------------------------------------DIVISOR----------------------------------------------->
 
     <RouterLink to="/Home/Games">
-      Games
-    </RouterLink></span></section>
+      <section class=""><span class="text w-32 prevent-select"> Games </span></section>
+    </RouterLink>
 
     <p class="w-full prevent-select"></p>
 
-
-<!-----------------------------------------------DIVISOR----------------------------------------------->
-    <section class=""><span class="text w-32 prevent-select">
-
+    <!-----------------------------------------------DIVISOR----------------------------------------------->
     <RouterLink to="/Home/HomeAndHealth">
-      HomeAndHealth
-    </RouterLink></span></section>
+      <section class=""><span class="text w-32 prevent-select"> HomeAndHealth </span></section>
+    </RouterLink>
 
     <p class="w-full prevent-select"></p>
 
-
-<!-----------------------------------------------DIVISOR----------------------------------------------->
-    <section class=""><span class="text w-32 prevent-select">
-
+    <!-----------------------------------------------DIVISOR----------------------------------------------->
     <RouterLink to="/Home/SocialMedias">
-      SocialMedias
-    </RouterLink></span></section>
-
+      <section class="">
+        <span class="text w-32 prevent-select"> SocialMedias </span>
+      </section>
+    </RouterLink>
     <p class="w-full prevent-select"></p>
 
-
-<!-----------------------------------------------DIVISOR----------------------------------------------->
-    <section class=""><span class="text w-32 prevent-select">
-
+    <!-----------------------------------------------DIVISOR----------------------------------------------->
     <RouterLink to="/Home/Documents">
-      Documents
-    </RouterLink></span></section>
-
+      <section class="">
+        <span class="text w-32 prevent-select"> Documents </span>
+      </section>
+    </RouterLink>
     <p class="w-full prevent-select"></p>
 
-
-<!-----------------------------------------------DIVISOR----------------------------------------------->
-    <section class=""><span class="text w-32 prevent-select">
-
+    <!-----------------------------------------------DIVISOR----------------------------------------------->
     <RouterLink to="/Home/GeneralDiscussions">
-      GeneralDiscussions
-    </RouterLink></span></section>
-
-</aside>
-
-
+      <section class="">
+        <span class="text w-32 prevent-select"> GeneralDiscussions </span>
+      </section>
+    </RouterLink>
+  </aside>
 </template>
-<style scoped>
 
-p{
-  border: 3px #1F2833 solid ;
+<style scoped>
+p {
+  border: 3px #1f2833 solid;
 }
 
-span{
+span {
   font-size: 18px;
   font-weight: 900;
 }
 
-section{
-  border: 3px #66FCF1 dashed;
+section {
+  border: 3px #66fcf1 dashed;
   width: 100%;
-  background-color: #45A29E;
+  background-color: #45a29e;
 }
-.sidebar{
+.sidebar {
   border-color: black;
   width: 14%;
-  padding: 0 15px;  
+  padding: 0 15px;
   padding-bottom: 8%;
   padding-top: 3%;
-  
 }
-
-
 </style>

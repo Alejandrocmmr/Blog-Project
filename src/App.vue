@@ -5,8 +5,7 @@ import MenuBar from './components/MenuBar.vue'
 </script>
 
 <template>
-  
-  <MenuBar/>
+  <MenuBar />
   <div class="h-1"></div>
   <RouterView />
 </template>
@@ -19,29 +18,24 @@ import MenuBar from './components/MenuBar.vue'
 font-family: 'Dancing Script', cursive;
 font-family: 'Satisfy', cursive; */
 
-
-
-*{
+* {
   color: rgba(255, 255, 255, 0.9);
   font-family: 'Satisfy', cursive;
-  font-weight: 400
-}
-body{
-  background-color: rgb(149, 146, 146);
-}
-.prevent-select {
+  font-weight: 400;
   -webkit-user-select: none; /* Safari */
   -ms-user-select: none; /* IE 10 and IE 11 */
   user-select: none; /* Standard syntax */
 }
+body {
+  background-color: rgb(149, 146, 146);
+}
 
 .fixedContainer {
-  background-color:#ddd;
+  background-color: #ddd;
   position: fixed;
   padding: 1em;
   right: 0%;
   top: 3.7em;
   transform: translateX(-50%);
-  }
-
+}
 </style>
