@@ -1,6 +1,4 @@
-{
-  "allowJs": true,
-  "files": [],
+{ "files": [],
   "references": [
     {
       "path": "./tsconfig.node.json"

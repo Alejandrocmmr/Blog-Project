@@ -28,9 +28,9 @@ const conectionSend = async () => {
 }
 
 const formSend = ref({
-  name: 'alejandro',
-  email: 'alejandro@gmail.com',
-  message: 'TESTANDO '
+  name: '',
+  email: '',
+  message: ' '
 })
 
 const formReceive = ref({
@@ -67,9 +67,26 @@ const conectionReceive = async () => {
   }
 }
 
-const deleteMessage = async () => {
+const deleteMessage = async (id: any) => {
   if (confirm('Are you sure about delete this message?')) {
-    alert('voce deletou uma mensagem')
+    try {
+      await axios({
+        url: `http://localhost:3000/Messages/${id}`,
+        method: 'delete'
+      }).then(function (re) {
+        console.log(re.data)
+        console.log(re.status)
+        console.log(re.config)
+        console.log(re.headers)
+      })
+    } catch (error) {
+      console.log(error)
+    }
+
+    alert('Message Deleted')
+    location.reload()
+  } else {
+    alert('You canceled the Delete Process!')
   }
 }
 </script>
@@ -206,20 +223,20 @@ const deleteMessage = async () => {
             class="flex items-center justify-center input mt-4 border-2 w-full displaySended py-2"
           >
             <label for="idSended" class="text-2xl mr-6">Message Identificator</label>
-            <textarea
+            <input
               type="text"
               name="idSended"
               id="idSended"
               v-model="message.id"
               class="w-10 rounded-md h-10 text-center py-2 overflow-hidden mr-16 text-2xl"
               style="resize: none"
-            ></textarea>
+            />
 
             <button
               type="button"
               id=""
               class="py-2 text-xl w-3/12 border-2 rounded-lg bg-gray-500 ml-2 mr-5"
-              @click="deleteMessage()"
+              @click="deleteMessage(message.id)"
             >
               delete Your Messages
             </button>
