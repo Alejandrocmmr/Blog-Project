@@ -1,0 +1,42 @@
+{
+  "Registers": [
+    {
+      "id": 1,
+      "nome": "alejandro",
+      "email": "<EMAIL>",
+      "password": "<PASSWORD>"
+    }
+  ],
+  "Messages": [
+    {
+      "name": "joaquin",
+      "email": "joaquin@gmail.com.br",
+      "message": "teste de mensagem",
+      "id": 0
+    },
+    {
+      "name": "alejandro",
+      "email": "alejandro@gmail.com",
+      "message": "TESTANDO 1",
+      "id": 1
+    },
+    {
+      "name": "alejandro",
+      "email": "alejandro@gmail.com",
+      "message": "TESTANDO 24242",
+      "id": 2
+    },
+    {
+      "name": "alejandro",
+      "email": "alejandro@gmail.com",
+      "message": "TESTANDO ",
+      "id": 3
+    },
+    {
+      "name": "alejandro",
+      "email": "alejandro@gmail.com",
+      "message": "TESTANDO ",
+      "id": 4
+    }
+  ]
+}
