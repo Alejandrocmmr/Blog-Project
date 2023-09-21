@@ -1,7 +1,9 @@
 <script setup lang="ts"></script>
 
 <template>
-  <aside class="border-4 flex flex-wrap flex-col h-auto w-1/12 text-center sidebar justify-between">
+  <aside
+    class="border-4 flex flex-wrap flex-col h-auto w-1/12 text-center sidebar justify-between max-h-screen"
+  >
     <!-----------------------------------------------DIVISOR----------------------------------------------->
 
     <RouterLink to="/Home/News">

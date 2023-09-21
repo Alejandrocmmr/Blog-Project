@@ -18,6 +18,11 @@ import MenuBar from './components/MenuBar.vue'
 font-family: 'Dancing Script', cursive;
 font-family: 'Satisfy', cursive; */
 
+.px-14 {
+  line-height: 45px;
+  font-size: 28px;
+}
+
 * {
   color: rgba(255, 255, 255, 0.9);
   font-family: 'Satisfy', cursive;
