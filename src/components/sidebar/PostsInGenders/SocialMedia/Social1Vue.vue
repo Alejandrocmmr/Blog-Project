@@ -1,7 +1,7 @@
 <template>
   <main class="border-4 p-1 text-xl mx-3">
     <div class="text-6xl w-full text-center my-10 px-16">
-      Liberdade nas redes? O algoritmo é um Deus que limita o livre-arbítrio
+      Freedom on networks? The algorithm is a God that limits free will
     </div>
     <div class="p-2 mb-4 flex justify-center">
       <img
@@ -10,85 +10,84 @@
         class="w-3/5 h-screen"
       />
     </div>
+
     <div class="p-2 px-14 mb-4">
-      Recentemente, eu notei uma tendência intrigante no TikTok. Os conteúdos que começaram aparecer
-      para mim já não eram apenas um vídeo, mas a combinação de dois na mesma tela. Essa é uma
-      técnica conhecida como "Dual Vídeo", um na parte superior, e outro, na inferior, para prender
-      ainda mais a atenção do usuário. O objetivo é oferecer um estímulo visual e mentalmente
-      satisfatório, como facas cortando espumas, latas rolando por escadas ou cenas de algum jogo,
-      enquanto o usuário assiste um conteúdo verbalizado, mais longo, como o corte de uma
-      entrevista. Quando menciono "vídeos mais longos", estou me referindo a vídeos que passam de um
-      minuto.É muito estranho achar que um conteúdo de dois ou três minutos é longo demais, e eu
-      concordo, mas é o desenho de uma realidade impulsionada por plataformas em que os usuários
-      trocam de estímulos dezenas de vezes por minutos
+      Recently, I noticed an intriguing trend on TikTok. The contents that started to appear for me
+      they were no longer just one video, but the combination of two on the same screen. This is a
+      technique known as "Dual Video", one at the top and the other at the bottom, to hold even more
+      attention from the user. The aim is to provide visual and mental stimulation satisfactory,
+      like knives cutting through foam, cans rolling down stairs or scenes from a game, while the
+      user watches longer, verbalized content, such as the cut of a interview. When I mention
+      "longer videos", I'm referring to videos that are longer than one minute. It's very strange to
+      think that content lasting two or three minutes is too long, and I I agree, but it is the
+      design of a reality driven by platforms in which users change stimuli dozens of times per
+      minute
     </div>
 
     <div class="p-2 px-14 mb-4">
-      A regra em uma plataforma como o TikTok é trocar de vídeo até encontrar alguma coisa que chame
-      a atenção. O seu algoritmo de recomendação conhece muito bem os seus mais de 1 bilhão de
-      usuários no mundo todo e entrega os vídeos que são mais interessantes para cada um. É essa
-      experiência viciante que transformou o TikTok em um fenômeno mundial em poucos anos. Agora, o
-      "Dual Vídeo" surge como um 'hack' dos criadores, não apenas para burlar possíveis violações de
-      direitos autorais, mas principalmente para engajar usuários que já estão sob influência de
-      algoritmos poderosos. Para vocês entenderem a capacidade desse tipo de sistema de
-      recomendação, vou falar sobre um estudo bastante relevante
+      The rule on a platform like TikTok is to change videos until you find something that catches
+      your eye. attention. Its recommendation algorithm knows very well its more than 1 billion
+      users around the world and delivers the videos that are most interesting to each one. This is
+      it addictive experience that turned TikTok into a worldwide phenomenon in just a few years.
+      Now the "Dual Vídeo" appears as a 'hack' by the creators, not just to circumvent possible
+      violations of copyright, but mainly to engage users who are already under the influence of
+      powerful algorithms. For you to understand the capacity of this type of system recommendation,
+      I'm going to talk about a very relevant study
     </div>
 
     <div class="p-2 px-14 mb-4">
-      Pesquisadores chineses da Zhejiang University estavam dispostos a entender o impacto do
-      algoritmo do TikTok no cérebro de seus usuários. Para isso, colocaram voluntários em uma
-      máquina de ressonância magnética funcional para ver o que acontecia quando assistiam os
-      conteúdos recomendados para cada um deles pelo algoritmo da plataforma. O resultado do estudo
-      demonstrou que o algoritmo de recomendação é capaz de descobrir os conteúdos que aumentam a
-      atividade de um conjunto de sub-regiões do cérebro que reforça o comportamento de assistir
-      mais e mais vídeos
+      Chinese researchers from Zhejiang University were keen to understand the impact of TikTok's
+      algorithm in its users' brains. To do this, they placed volunteers in a functional magnetic
+      resonance imaging machine to see what happened when they watched the content recommended for
+      each of them by the platform's algorithm. The result of the study demonstrated that the
+      recommendation algorithm is capable of discovering content that increases activity of a set of
+      brain subregions that reinforce watching behavior more and more videos
     </div>
 
     <div class="p-2 px-14 mb-4">
-      E isso não é uma coisa restrita ao TikTok. Todas as plataformas baseiam seus serviços em
-      algoritmos que reconhecem as preferências e indicam o conteúdo para preencher o vazio do
-      usuário. E isso tem uma série de desafios cognitivos, psicológicos, éticos e de governança. O
-      ChatGPT roubou a cena das discussões sobre IA neste ano, mas precisamos retomar o debate sobre
-      os algoritmos de recomendação, afinal é o tipo de IA que controla o tráfego de conteúdo na Web
-      e tem potencial para modular as percepções e comportamento dos usuários.
+      And this is not something restricted to TikTok. All platforms base their services on
+      algorithms that recognize preferences and indicate content to fill the void in the user. And
+      this has a series of cognitive, psychological, ethical and governance challenges. O ChatGPT
+      stole the spotlight in discussions about AI this year, but we need to resume the debate about
+      recommendation algorithms, after all, it is the type of AI that controls content traffic on
+      the web and has the potential to modulate users’ perceptions and behavior.
     </div>
 
     <div class="p-2 px-14 mb-4">
-      Alguns lugares do mundo estão mais avançados em discussões sobre o assunto, e a Europa é um
-      exemplo. Entrou em vigor recentemente uma nova lei na União Europeia (DSA - Digital Service
-      Act) que cria regras para as plataformas. Um dos pilares é garantir mais transparência dos
-      algoritmos e autonomia para os usuários, o que levou o TikTok a propor mudanças no
-      funcionamento do seu serviço. Para atender às exigências da DSA, a plataforma vai permitir que
-      os usuários europeus desativem as recomendações personalizadas. Quando o usuário escolher por
-      isso, o feed da aba "For You" mostrará conteúdos mais populares de acordo com a região em que
-      a pessoa vive, mas não com base em seus interesses pessoais. Essa será uma funcionalidade
-      opcional para o usuário, que poderá desabilitar ou não o algoritmo. Agora resta saber o que
-      eles vão fazer. Eu tenho a hipótese de que a grande maioria seguirá firme e forte dançando
-      conforme a música que o algoritmo toca. Os sistemas de recomendação são desenhados para criar
-      uma melhor experiência e habituar nosso comportamento, então é difícil que um usuário comum
-      entenda essas implicações e opte por uma experiência menos gratificante.
+      Some places in the world are more advanced in discussions on the subject, and Europe is one
+      example. A new law has recently come into force in the European Union (DSA - Digital Service
+      Act) that creates rules for platforms. One of the pillars is to ensure greater transparency of
+      algorithms and autonomy for users, which led TikTok to propose changes to the operation of
+      your service. To meet DSA requirements, the platform will allow European users turn off
+      personalized recommendations. When the user chooses Therefore, the "For You" tab feed will
+      show the most popular content according to the region in which you a person lives, but not
+      based on his personal interests. This will be a feature optional for the user, who can disable
+      the algorithm or not. Now it remains to be seen what they will do. I have a hypothesis that
+      the vast majority will remain firm and strong dancing according to the song the algorithm
+      plays. Recommender systems are designed to create a better experience and habituate our
+      behavior, so it is difficult for a common user understand these implications and opt for a
+      less rewarding experience.
 
       <div class="p-2 px-14 mb-4">
-        Recentemente, a Meta (dona de Facebook e Instagram) publicou, na respeitada revista Science,
-        o resultado de uma pesquisa feita com pesquisadores parceiros da empresa que prova o meu
-        ponto: as pessoas parecem não gostar do feed cronológico. Quando os usuários usaram essa
-        versão das redes sociais, em vez de um feed alimentado pelos algoritmos de recomendação, as
-        atividades e o tempo que passavam nas plataformas caíram substancialmente. Durante muito
-        tempo, pesquisadores e legisladores argumentaram que o feed por algoritmos de recomendação
-        era o grande vilão que manipulava o comportamento dos usuários nas plataformas. No entanto,
-        após a divulgação do estudo da Meta, observei opiniões sugerindo que os algoritmos talvez
-        não sejam os verdadeiros antagonistas, já que refletem o que os usuários desejam. Porém,
-        acho que na realidade é exatamente o oposto. O fato de as pessoas diminuírem a atividade na
-        plataforma quando o sistema de recomendação sai de cena demonstra que o algoritmo age para
-        condicionar o comportamento dos usuários ao entregar estímulos cada vez mais reforçadores. O
-        Deus algoritmo age para restringir o livre-arbítrio ao mesmo tempo em que comunica uma falsa
-        sensação de liberdade: "você pode sair quando quiser". Agora, a gente já sabe que não é tão
-        simples assim para cair nessa falácia. *Professor na PUC-SP e Pesquisador no NIC.br. Doutor
-        em Tecnologias da Inteligência e Design Digital pela PUC-SP, com PhD fellowship pela
-        Université Paris I - Sorbonne. MBA em Economia Internacional pela USP e Especialista em
-        Neurociência. Foi pesquisador visitante no laboratório de Ciência Cognitiva da Queen Mary
-        University of London. Tem pesquisas na intersecção entre ciência cognitiva, design e
-        tecnologia.
+        Recently, Meta (owner of Facebook and Instagram) published, in the respected Science
+        magazine, the result of a survey carried out with researchers who are partners of the
+        company, which proves my point: people don't seem to like the chronological feed. When users
+        used this version of social networks, instead of a feed fed by recommendation algorithms,
+        activities and time spent on platforms dropped substantially. For a long time time,
+        researchers and policymakers have argued that feed recommendation algorithms was the great
+        villain who manipulated the behavior ofusers on the platforms. However, After the release of
+        the Meta study, I noticed opinions suggesting that algorithms might are not the true
+        antagonists, as they reflect what users want. Although, I think in reality it's exactly the
+        opposite. The fact that people reduce activity in platform when the recommendation system
+        leaves the scene demonstrates that the algorithm acts to conditioning users' behavior by
+        delivering increasingly reinforcing stimuli. O Algorithmic God acts to restrict free will
+        while simultaneously communicating a false feeling of freedom: "you can leave whenever you
+        want". Now, we already know that it is not so It's that simple to fall into this fallacy.
+        *Professor at PUC-SP and Researcher at NIC.br. Doctor in Intelligence Technologies and
+        Digital Design from PUC-SP, with a PhD fellowship from Université Paris I - Sorbonne. MBA in
+        International Economics from USP and Specialist in Neuroscience. He was a visiting
+        researcher at the Cognitive Science laboratory at Queen Mary University of London. He has
+        research at the intersection of cognitive science, design and technology.
       </div>
     </div>
   </main>

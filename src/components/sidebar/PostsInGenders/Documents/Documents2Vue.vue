@@ -1,7 +1,7 @@
 <template>
   <main class="border-4 p-1 text-xl mx-3">
     <div class="text-6xl w-full text-center my-10 px-16">
-      Carteira de identidade nacional é lançada; veja o que se sabe sobre o novo RG
+      National identity card is launched; see what is known about the new RG
     </div>
     <div class="p-2 mb-4 flex justify-center">
       <img
@@ -11,43 +11,43 @@
       />
     </div>
     <div class="p-2 px-14 mb-4">
-      Em cerimônia realizada nesta quarta-feira (23) em Brasília, o governo federal lançou a
-      Carteira de Identidade Nacional. A solenidade contou com a presença do presidente Jair
-      Bolsonaro (PL). O objetivo principal do novo documento será unificar a carteira de identidade
-      em todos os estados brasileiros e no Distrito Federal. Confira abaixo quais serão as mudanças:
+      In a ceremony held this Wednesday (23) in Brasília, the federal government launched the
+      National Identity Card. The ceremony was attended by President Jair Bolsonaro (PL). The main
+      objective of the new document will be to unify the identity card in all Brazilian states and
+      the Federal District. Check out the changes below:
     </div>
 
     <div class="p-2 px-14 mb-4">
-      <span class="text-2xl">Número de registro único <br /><br /></span>O novo modelo de documento
-      adotado pelo governo contará com o CPF como número de registro único. Assim, a identificação
-      será a mesma em todo o país. Atualmente, em caso de necessidade de uma nova emissão em outro
-      estado, o cidadão recebe um novo número de registro. No modelo antigo, seria possível ter até
-      27 números de RG.
+      <span class="text-4xl">Unique registration number <br /><br /></span>The new document model
+      adopted by the government will have the CPF as the unique registration number. Thus, the
+      identification will be the same throughout the country. Currently, in case of need for a new
+      issuance in another state, the citizen receives a new registration number. In the old model,
+      it would be possible to have up to 27 ID numbers.
     </div>
 
     <div class="p-2 px-14 mb-4">
-      <span class="text-2xl">Digitalização <br /><br /></span>A Carteira de Identidade Nacional terá
-      versão física e virtual, além de permitir a checagem por QR Code, inclusive sem o uso de
-      internet.
+      <span class="text-4xl">Digitalization <br /><br /></span>The National Identity Card will have
+      physical and virtual version, in addition to allowing checking by QR Code, even without the
+      use of Internet.
     </div>
 
     <div class="p-2 px-14 mb-4">
-      <span class="text-2xl">Documento internacional <br /><br /></span>Outra novidade é que a
-      carteira de identidade nacional terá padrão internacional, permitindo ao viajantes utilizá-la
-      fora do país. O documento contará com código MRZ (Machine Readable Zone), o mesmo emitido em
-      passaportes.
+      <span class="text-4xl">International document <br /><br /></span>Another novelty is that the
+      national identity card will have an international standard, allowing travelers to use it
+      outside the country. The document will have an MRZ (Machine Readable Zone) code, the same one
+      issued in passports.
     </div>
 
     <div class="p-2 px-14 mb-4">
-      <span class="text-2xl"> Como funcionará a emissão? <br /><br /></span>O governo ainda não
-      explicou como funcionará o processo de solicitação do novo RG, mas adiantou que a emissão –
-      tanto da primeira versão quanto após 10 anos – será gratuita.
+      <span class="text-4xl"> How will the issuance work? <br /><br /></span>The government has not
+      yet explained how the new ID request process will work, but added that the issuance – both
+      from the first version and after 10 years – it will be free.
     </div>
 
     <div class="p-2 px-14 mb-4">
-      <span class="text-2xl">Qual o motivo das mudanças? <br /><br /></span>Segundo o governo, as
-      novidades buscam modernizar o país e reduzir as fraudes, especialmente por meio da unificação
-      do número de identidade.
+      <span class="text-4xl">What is the reason for the changes? <br /><br /></span>According to the
+      government, the new developments seek to modernize the country and reduce fraud, especially
+      through unification of the identity number.
     </div>
   </main>
 </template>

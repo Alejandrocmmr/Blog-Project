@@ -1,7 +1,7 @@
 <template>
   <main class="border-4 p-1 text-xl mx-3">
     <div class="text-6xl w-full text-center my-10">
-      Saiba como deixar a casa quente e aconchegante no inverno
+      Find out how to make your home warm and cozy in winter
     </div>
     <div class="p-2 mb-4 flex justify-center">
       <img
@@ -11,49 +11,48 @@
       />
     </div>
     <div class="p-2 px-14 mb-4">
-      Com o inverno se aproximando, é fundamental buscar alternativas para manter a casa aquecida e
-      confortável. Neste contexto, uma decoração bem planejada e estrategicamente selecionada ajuda
-      a proporcionar um refúgio aconchegante e convidativo para enfrentar as baixas temperaturas.
-      Pensando nisso, a arquiteta e doutora em Gestão Urbana Alien Zanon lista algumas dicas de
-      materiais e objetos que contribuem para a sensação de um lar aquecido.
+      With winter approaching, it is essential to look for alternatives to keep the house warm and
+      comfortable. In this context, a well-planned and strategically selected decoration helps
+      providing a warm and inviting refuge to face the low temperatures. With this in mind,
+      architect and doctor in Urban Management Alien Zanon lists some tips for materials and objects
+      that contribute to the feeling of a warm home.
     </div>
 
     <div class="p-2 px-14 mb-4">
-      <span class="text-2xl"> 1. Tapetes para aquecer o piso<br /><br /></span> A melhor forma de
-      aquecer um ambiente é de baixo para cima. Por isso, o uso dos tapetes neste período é
-      essencial para trazer calor para o ambiente. “Além de esquentar bem, os tapetes transmitem uma
-      sensação de aconchego e conforto; por isso, vale a pena investir nessa peça para aquecer e
-      deixar a casa mais elegante. Gosto das opções de tapetes que utilizam fibra natural, porque
-      além de serem ecológicos, valorizam ambientes neutros, rústicos e ainda aquecem bem”, explica
-      Alien Zanoni.
+      <span class="text-4xl"> 1. Mats to warm the floor<br /><br /></span> The best way to Heating
+      an environment is from the bottom up. Therefore, the use of carpets during this period is
+      essential for bringing heat to the environment. “In addition to warming up well, carpets
+      transmit a feeling of warmth and comfort; Therefore, it is worth investing in this piece to
+      warm up and make the house more elegant. I like carpet options that use natural fiber, because
+      In addition to being ecological, they enhance neutral, rustic environments and also heat
+      well”, he explains. Alien Zanoni.
     </div>
 
     <div class="p-2 px-14 mb-4">
-      <span class="text-2xl"> 2. Objetos em madeira<br /><br /></span>Os elementos de madeira têm a
-      capacidade natural de neutralizar a temperatura do ambiente. “Além de transmitir uma sensação
-      de aconchego e acolhimento, os objetos feitos em madeira também podem ajudar nesta missão de
-      aquecer a sua casa durante o inverno. Isso porque eles possuem um isolante térmico natural,
-      deixando a casa com a temperatura neutra. Dessa forma, ela não fica gelada no inverno nem
-      muito quente no verão”, justifica a arquiteta.
+      <span class="text-4xl"> 2. Wooden objects<br /><br /></span>Wooden elements have the natural
+      ability to neutralize the temperature of the environment. “In addition to transmitting a
+      feeling of warmth and welcome, objects made from wood can also help in this mission of heat
+      your home during winter. This is because they have a natural thermal insulator, leaving the
+      house at a neutral temperature. This way, it doesn't get cold in winter or very hot in the
+      summer”, explains the architect.
     </div>
 
     <div class="p-2 px-14 mb-4">
-      <span class="text-2xl"> 3. Luminárias quentes<br /><br /></span>O uso de lâmpadas amarelas e
-      quentes com certeza farão toda a diferença na sua preparação para o inverno. “Os lustres e
-      luminárias trazem uma sensação de calor que contribui bastante para deixar o ambiente
-      confortável e bem quentinho. Outra solução seria investir em velas e abajures. Todos esses
-      objetos vão deixar a sua casa ainda mais bonita, agradável e a melhor parte: bem aquecida”,
-      afirma.
+      <span class="text-4xl"> 3. Warm lamps<br /><br /></span>The use of yellow lamps and warm ones
+      will certainly make all the difference in your preparation for winter. “The chandeliers and
+      Luminaires bring a feeling of warmth that contributes greatly to making the space comfortable
+      and very warm. Another solution would be to invest in candles and lamps. All these objects
+      will make your home even more beautiful, pleasant and the best part: well heated”, states.
     </div>
 
     <div class="p-2 px-14 mb-4">
-      <span class="text-2xl">4. Mantas e almofadas <br /><br /></span>As mantas e almofadas são
-      alternativas perfeitas para trazer calor para um ambiente. “Sem dúvida alguma, a melhor
-      estratégia para se manter aquecida durante o inverno é investir em mantas e almofadas! Isso
-      porque, com a queda das temperaturas, é muito comum passarmos o tempo deitados no sofá ou até
-      mesmo na cama, enrolados no edredom, não é mesmo? Então, neste caso, preencher os cantinhos da
-      casa com mantas de tricô, almofadas de tecido mais grossos, felpudos e quentinhos (como as que
-      são feitas de lã), são indispensáveis para aquecer os ambientes”, finaliza.
+      <span class="text-4xl">4. Blankets and pillows <br /><br /></span>Blankets and pillows are
+      perfect alternatives to bring warmth to a room. “Without a doubt, the best One strategy to
+      stay warm during winter is to invest in blankets and pillows! That because, with the drop in
+      temperatures, it is very common for us to spend time lying on the sofa or even right in bed,
+      wrapped in the duvet, right? So, in this case, filling in the corners of the home with knitted
+      blankets, thicker, plush and warm fabric pillows (like the ones we they are made of wool),
+      they are essential for heating environments”, she concludes.
     </div>
   </main>
 </template>

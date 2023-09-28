@@ -1,6 +1,6 @@
 <template>
   <main class="border-4 p-1 text-xl mx-3">
-    <div class="text-6xl w-full text-center my-10">11 de setembro: a tragédia dez anos depois</div>
+    <div class="text-6xl w-full text-center my-10">September 11: the tragedy ten years later</div>
     <div class="p-2 mb-4 flex justify-center">
       <img
         src="../../../../assets/imgsToNews/NEWS1IMG.jpg"
@@ -9,188 +9,182 @@
       />
     </div>
     <div class="p-2 px-14 mb-4">
-      <span class="text-2xl"
-        >Onde você estava na manhã da terça-feira, dia 11 de setembro de 2001? <br /><br
+      <span class="text-4xl"
+        >Where were you on the morning of Tuesday, September 11, 2001? <br /><br
       /></span>
-      Com certeza você saberá responder essa pergunta. O atentado às torres gêmeas do World Trade
-      Center, na cidade de Nova York, marcou, sem dúvida nenhuma, o mundo e a vida de cada um que
-      pela televisão, ao vivo, assistiu horrorizado a todo o desenrolar da tragédia que abalou a
-      humanidade. Naquela manhã, o presidente dos Estados Unidos, George W. Bush, estava visitando a
-      Emma E. Booker Elementary School, uma escola infantil localizada na cidade de Sarasota, na
-      Flórida. A primeira notícia transmitida pelo chefe de seu gabinete, Andrew Card, dizia que um
-      bimotor havia se chocado contra uma das torres do World Trade Center. Minutos depois, uma nova
-      informação foi passada, avisando que um segundo avião acabava de atingir a outra torre, e que
-      se tratava de um atentado terrorista. Bush, visivelmente chocado, permaneceu impassível por
-      mais seis minutos com as crianças, sem nenhuma reação. Somente após deixar a sala de aula é
-      que falou para mais de 200 pessoas que se encontravam no local e informou que os Estados
-      Unidos tinham sido vítimas de um atentado terrorista.
+      You will definitely be able to answer this question. The attack on the twin towers of World
+      Trade Center, in New York City, marked, without a doubt, the world and the lives of everyone
+      who on live television, he watched in horror the entire unfolding of the tragedy that shook
+      the humanity. That morning, the President of the United States, George W. Bush, was visiting
+      the Emma E. Booker Elementary School, a children's school located in the city of Sarasota,
+      Florida. The first news conveyed by his chief of staff, Andrew Card, said that a twin engine
+      had crashed into one of the World Trade Center towers. Minutes later, a new information was
+      passed, warning that a second plane had just hit the other tower, and that it was a terrorist
+      attack. Bush, visibly shocked, remained impassive for another six minutes with the children,
+      without any reaction. Only after leaving the classroom is who spoke to more than 200 people
+      who were there and informed that the States States had been victims of a terrorist attack.
     </div>
 
     <div class="p-2 px-14 mb-4">
-      O World Trade Center As duas torres haviam sido planejadas, para uso comercial, ainda no
-      início dos anos 60, sendo que o local escolhido foi ao lado do antigo cais do porto da cidade
-      de Nova York, às margens do rio Hudson, no sul da ilha de Manhattan. De propriedade do Port
-      Authority of New York and New Jersey, a execução do projeto foi do arquiteto Minoru Yamasaki,
-      e do escritório Emery Roth & Sons, e a parte estrutural ficou sob a responsabilidade do
-      escritório Leslie E. Robertson Associates. A construção ficou delegada a Tishman Realty &
-      Construction Company. A pedra fundamental foi colocada em 5 de agosto de 1966, e a construção
-      seria concluída somente em abril de 1973. Com 110 andares, e uma altura de 413 metros até o
-      último altar, elevava-se, com o telhado, a 417 metros, e a torre norte, com a antena de
-      televisão no topo, alcançava a altura de 526,3 metros. Desbancando o famoso Empire State
-      Building, no período de 1972 e 1973 foi a estrutura mais alta do mundo, antes da inauguração
-      da Sears Tower, localizada em Chicago. O total da área dos edifícios era de 800.000 metros
-      quadradros, e possuíam nada menos que 97 elevadores para passageiros e seis exclusivamente
-      para cargas, em cada um. No alto da torre sul havia uma lanchonete, uma loja de lembranças, e
-      acima um mirante para se observar em 360 graus a cidade de Nova York e também Nova Jersey. Na
-      outra torre, na qual se localizava a antena de televisão, havia um sofisticado e caro
-      restaurante, o Windows of the World, que era frequentado por executivos da cidade. Desde a sua
-      inauguração em 4 de abril de 1973, o World Trade Center tornou-se um ícone de Nova York, um
-      verdadeiro cartão-postal da cidade. No dia 13 de fevereiro de 1975, um incêndio atingiu o 11º
-      andar da torre norte, em quase metade da área. Através das aberturas no piso, usadas para
-      passar os fios dos aparelhos de telefonia, o fogo acabou se espalhando para outros andares,
-      mas foram extintos com eficiência. Alguns andares abaixo também sofreram danos, mas foram
-      causados pela água utilizada para combater o fogo. Apesar de tudo o prédio não sofreu danos
-      estruturais.
+      The World Trade Center The two towers had been planned for commercial use in the early 60s,
+      and the location chosen was next to the city's old port pier of New York, on the banks of the
+      Hudson River, in the south of the island of Manhattan. Owned by Port Authority of New York and
+      New Jersey, the project was carried out by architect Minoru Yamasaki, and the firm Emery Roth
+      & Sons, and the structural part was under the responsibility of Leslie E. Robertson Associates
+      office. The construction was delegated to Tishman Realty & Construction Company. The
+      foundation stone was laid on August 5, 1966, and the construction would only be completed in
+      April 1973. With 110 floors, and a height of 413 meters to the last altar, with the roof, rose
+      to 417 meters, and the north tower, with the antenna of television at the top, reaching a
+      height of 526.3 meters. Destroying the famous Empire State Building, in the period of 1972 and
+      1973 was the tallest structure in the world, before the inauguration of the Sears Tower,
+      located in Chicago. The total area of the buildings was 800,000 meters square, and had no less
+      than 97 elevators for passengers and six exclusively for loads, in each. At the top of the
+      south tower there was a snack bar, a souvenir shop, and Above is a viewpoint to observe New
+      York City and New Jersey in 360 degrees. At In another tower, in which the television antenna
+      was located, there was a sophisticated and expensive restaurant, Windows of the World, which
+      was frequented by city executives. Since your opening on April 4, 1973, the World Trade Center
+      became an icon of New York, a true postcard of the city. On February 13, 1975, a fire hit the
+      11th floor of the north tower, in almost half of the area. Through the openings in the floor,
+      used for passing the telephone wires, the fire ended up spreading to other floors, but they
+      were efficiently extinguished. Some floors below also suffered damage, but were caused by the
+      water used to fight the fire. Despite everything, the building was not damaged. structural.
     </div>
 
     <div class="p-2 px-14 mb-4">
-      Atentado de 1993 Em 26 de fevereiro de 1993, a explosão de um carro-bomba, que estava parado
-      na garagem do subsolo da torre norte provocou a morte de seis pessoas e pânico nas milhares de
-      pessoas que se encontravam nos prédios. O veículo de carga, locado à empresa de transportes
-      Ryder, estava carregado de 682 quilogramas de dinamite, o atentado foi executado pelo
-      terrorista Ramzi Yousef. O artefato provocou a abertura de um buraco de 30 metros de
-      profundidade, o equivalente a quatro andares, e a destruição acarretou um prejuízo de 300
-      milhões de dólares à companhia de seguros. Muitas pessoas ficaram presas nos andares e foram
-      resgatadas pelos integrantes do Corpo de Bombeiros. 28 pessoas conseguiram subir até o topo do
-      edificio e foram resgatados pelos helicópteros da polícia. A administração das torres depois
-      do atentado colocou luzes de emergência nas escadas dos prédios, o que ajudaria a salvar
-      muitas vidas no atentado de 2001. O plano era que a explosão provocasse a derrubada da torre
-      norte sobre a torre sul, atingindo a zona financeira de Nova York, a Wall Street. As
-      investigações do FBI e das forças de segurança dos Estados Unidos levaram em 1997 e 1998 à
-      prisão dos seis terroristas islâmicos envolvidos no atentado. Condenados pela Justiça, todos
-      receberam pena de morte pelo ataque, mas hoje cumprem prisão perpétua na base americana de
-      Guantanamo, em Cuba. Um memorial em homenagem aos mortos foi construído em forma de uma fonte
-      na praça que ficava entre as torres. Quando do trabalho de limpeza dos escombros, após a queda
-      das torres, foram descobertos pedaços da fonte ainda intactos
+      1993 attack On February 26, 1993, the explosion of a car bomb, which was parked in the
+      basement garage of the north tower caused the death of six people and panic among thousands of
+      people who were in the buildings. The cargo vehicle, leased to the transport company Ryder,
+      was loaded with 682 kilograms of dynamite, the attack was carried out by terrorist Ramzi
+      Yousef. The artifact caused the opening of a hole 30 meters deep. depth, the equivalent of
+      four floors, and the destruction caused damage of 300 millions of dollars to the insurance
+      company. Many people were trapped on the floors and were rescued by members of the Fire
+      Department. 28 people managed to climb to the top of the building and were rescued by police
+      helicopters. The management of the towers after of the attack placed emergency lights on the
+      stairs of the buildings, which would help save many lives in the 2001 attack. The plan was for
+      the explosion to bring down the tower north over the south tower, reaching New York's
+      financial district, Wall Street. To the Investigations by the FBI and United States security
+      forces led in 1997 and 1998 to arrest of the six Islamic terrorists involved in the attack.
+      Convicted pshe Justice, all received the death penalty for the attack, but today they are
+      serving life in prison at the American base in Guantanamo, Cuba. A memorial in honor of the
+      dead was built in the shape of a fountain in the square that was between the towers. When
+      cleaning the rubble after the fall of the towers, parts of the fountain still intact were
+      discovered
     </div>
 
     <div class="p-2 px-14 mb-4">
-      11 de setembro de 2001 Naquela manhã de 11 de setembro, segundo estimativa do Nist " National
-      Institute of Standards and Technology (o Instituto Nacional de Padrões e Tecnologia), se
-      encontravam nas duas torres do World Trade Center 17,4 mil pessoas, mas o proprietário dos
-      prédios, o Port Authority of New York and New Jersey, contabilizou 14.154 pessoas. Diariamente
-      um público de mais de 50 mil pessoas passavam pelas torres gêmeas. Pouco depois das 8h30, o
-      voo nº 11 da American Airlines, com 87 pessoas a bordo, havia partido do aeroporto de Boston
-      com destino a Los Angeles, mas logo após a decolagem um grupo de cinco terroristas o
-      sequestrou, ameaçando a todos com uma bomba a bordo. Tomando o controle da aeronave,
-      desviaram-na da rota, rumando para Nova York, e às 8h46 jogaram o Boeing 767 contra a fachada
-      norte da torre norte, causando um violento impacto entre os andares 93 e 99. A explosão
-      decorrente dos 40 mil litros de combustivel da aeronave provocou uma grande destruição.
-      Dezessete minutos depois, um segundo grupo, formado por cinco terroristas, de forma
-      semelhante, sequestrou o Boeing 767 da United Airlines, que fazia o voo 175, também da rota
-      Boston a Los Angeles, que transportava 65 pessoas, e atingiu agora a torre sul do World Trade
-      Center, destruindo o edifício entre os andares 77 e 85. O dano causado à torre norte, pelo voo
-      11, destruiu todos os meios de evacuação de quem estava acima da zona de impacto, prendendo,
-      segundo informações posteriores, 1.344 pessoas. O voo 175 teve um impacto muito menos centrado
-      em relação ao voo 11, e uma escada foi deixada intacta; no entanto, devido às chamas, poucas
-      pessoas conseguiram passar com êxito por ela antes de a torre desabar. Embora os andares da
-      torre sul tenham sofrido danos menores, ao menos 700 pessoas morreram instantaneamente ou
-      foram arremessadas pelo choque do avião com o edifício. Às 9h59, a torre sul desabou devido ao
-      violento incêndio, que prejudicou os elementos estruturais do aço, já enfraquecido com o
-      impacto do aparelho. A torre norte desmoronou às 10h28, após ser consumida pelas fortes chamas
-      por aproximadamente 102 minutos. A grande maioria das pessoas que se encontravam abaixo da
-      zona de impacto conseguiu deixar os edifícios com segurança, junto com 18 pessoas que estavam
-      na zona de impacto na torre sul e usaram a escadaria intacta do prédio. Mas aqueles que
-      estavam no outro edificio não tiveram a mesma sorte. Pelo menos 1.366 pessoas morreram, pois
-      estavam no andar do impacto da torre norte ou em andares superiores, e pelo menos 618 na torre
-      sul, onde a evacuação tinha começado antes do segundo impacto. Assim, mais de 90% dos
-      trabalhadores e visitantes que morreram nas torres encontravam-se no andar do impacto ou nos
-      andares superiores. Vários prédios em torno das torres gêmeas sofreram com o ataque. Às 17h21,
-      um prédio anexo, o 7WTC desabou devido a incêndios descontrolados que causaram falha
-      estrutural. O hotel da rede Marriott, conhecido como 3WTC, foi destruído durante a queda das
-      duas torres. Os três edifícios restantes do complexo do WTC sofreram graves danos devido à
-      queda dos destroços e acabaram demolidos. O Deutsche Bank Building, localizado do outro lado
-      da Liberty Street em relação ao complexo World Trade Center, foi depois condenado devido às
-      condições tóxicas no interior do edifício que o tornavam inabitável, sendo demolido. O
-      Fiterman Hall do Borough of Manhattan Community College, na 30 West Broadway, também foi
-      condenado devido aos danos ocorridos nos ataques e foi necessária a sua demolição. Outro voo
-      da American Airlines, o de nº 77, um Boeing 757, com 59 ocupantes, que havia partido do
-      aeroporto Dulles, na capital Washington com destino a Los Angeles, foi sequestrado por cinco
-      terroristas, e desviado da rota, sendo lançado contra o prédio do Pentágono, sede da
-      inteligência militar e da Defesa dos Estados Unidos, localizado em Arlington, na Virgínia. A
-      violenta colisão e a consequente explosão vitimaram, além dos que estavam a bordo, 125 pessoas
-      que estavam no edificio. O sequestrador que pilotava o avião tinha experiência em voo, e pôde
-      assim atingir o Pentágono com precisão, pois havia um risco calculável de um choque com o
-      chão, já que o edifício tem apenas cinco andares. O Boeing 757 da United, que realizava o voo
-      93, do aeroporto de Newark, em Nova Jersey, para São Francisco, na Califórnia, foi tomado por
-      quatro sequestradores. Um grupo de passageiros, após tomar conhecimento do ataque a Nova York,
-      por conversa com parentes pelo telefone celular, resolveu reagir ao sequestro. Na ação a
-      aeronave acabou se chocando com o solo em Shankville, na Pensilvânia, matando todos os seus 44
-      ocupantes, incluindo os sequestradores. Segundo as investigações o alvo dos terroristas seria
-      o prédio do Congresso norte-americano, em Washington.
+      September 11, 2001 That morning of September 11, according to Nist's estimate "National
+      Institute of Standards and Technology (the National Institute of Standards and Technology), if
+      found 17,400 people in the two towers of the World Trade Center, but the owner of the
+      buildings, the Port Authority of New York and New Jersey, counted 14,154 people. Daily an
+      audience of more than 50 thousand people passed through the twin towers. Shortly after 8:30
+      am, the American Airlines Flight No. 11, with 87 people on board, had departed from Boston
+      Airport bound for Los Angeles, but shortly after takeoff a group of five terrorists kidnapped,
+      threatening everyone with a bomb on board. Taking control of the aircraft, they diverted it
+      from the route, heading towards New York, and at 8:46 am they threw the Boeing 767 against the
+      facade north of the north tower, causing a violent impact between floors 93 and 99. The
+      explosion resulting from the aircraft's 40 thousand liters of fuel caused major destruction.
+      Seventeen minutes later, a second group, made up of five terrorists, similar, hijacked the
+      United Airlines Boeing 767, which was on flight 175, also on the route Boston to Los Angeles,
+      which carried 65 people, and has now hit the south tower of the World Trade Center, destroying
+      the building between floors 77 and 85. The damage caused to the north tower by the flight 11,
+      destroyed all means of evacuation for those above the impact zone, trapping, according to
+      later information, 1,344 people. Flight 175 had a much less focused impact in relation to
+      Flight 11, and a staircase was left intact; however, due to the flames, few people managed to
+      successfully pass through it before the tower collapsed. Although the floors of south tower
+      suffered minor damage, at least 700 people died instantly or were thrown by the plane's
+      collision with the building. At 9:59 am, the south tower collapsed due to the violent fire,
+      which damaged the structural steel elements, already weakened by the impact of the device. The
+      north tower collapsed at 10:28 am, after being consumed by strong flames for approximately 102
+      minutes. The vast majority of people who were below the impact zone managed to leave the
+      buildings safely, along with 18 people who were in the impact zone in the south tower and used
+      the building's intact staircase. But those who They were in the other building and didn't have
+      the same luck. At least 1,366 people died as were on the impact floor of the north tower or
+      higher floors, and at least 618 in the tower south, where evacuation had begun before the
+      second impact. Thus, more than 90% of workers and visitors who died in the towers were on the
+      impact floor or in the upper floors. Several buildings around the twin towers suffered from
+      the attack. At 5:21 p.m., an outbuilding, 7WTC collapsed due to uncontrolled fires that caused
+      failure structural. The Marriott hotel, known as 3WTC, was destroyed during the fall of two
+      towers. The three remaining buildings of the WTC complex suffered severe damage due to the
+      debris fell and ended up demolished. The Deutsche Bank Building, located on the other side of
+      Liberty Street in relation to the World Trade Center complex, was later condemned due to toxic
+      conditions inside the building that made it uninhabitable, and it was demolished. O Borough of
+      Manhattan Community College's Fiterman Hall, at 30 West Broadway, was also condemned due to
+      the damage caused in the attacks and its demolition was necessary. Another flight of American
+      Airlines, number 77, a Boeing 757, with 59 occupants, which had departed from Dulles airport,
+      in the capital Washington en route to Los Angeles, was hijacked by five terrorists, and
+      diverted from the route, being thrown against the Pentagon building, headquarters of the
+      United States military and defense intelligence, located in Arlington, Virginia. A Violent
+      collision and the resulting explosion killed, in addition to those on board, 125 people who
+      were in the building. The hijacker who piloted the plane had flying experience and was able to
+      thus hitting the Pentagon with precision, as there was a calculable risk of a collision with
+      the floor, as the building only has five floors. United's Boeing 757, which performed the voo
+      93, from Newark Airport, New Jersey, to San Francisco, California, was taken by four
+      kidnappers. A group of passengers, after learning of the attack on New York, After talking to
+      relatives on his cell phone, he decided to react to the kidnapping. In the action the The
+      aircraft ended up crashing into the ground in Shankville, Pennsylvania, killing all 44 of its
+      passengers. occupants, including the hijackers. According to investigations, the target of the
+      terrorists would be the US Congress building in Washington.
     </div>
 
     <div class="p-2 px-14 mb-4">
-      <span class="text-2xl">As vitimas <br /><br /></span>Houve um total de 2.996 mortes, incluindo
-      os 19 sequestradores e as 2.977 vítimas. As vítimas fatais foram distribuídas da seguinte
-      forma: 246 nos quatro aviões (onde não houve sobreviventes), 2.606 no World Trade Center e 125
-      no Pentágono. Todas as mortes ocorridas foram de civis, exceto por 55 militares atingidos no
-      edificio do Pentágono. 411 pessoas da equipe de emergência que responderam aos chamados de
-      socorro morreram quando tentavam resgatar as pessoas e apagar os incêndios. Os bombeiros da
-      cidade de Nova York perderam 341 homens e dois paramédicos. A polícia de Nova York perdeu 23
-      integrantes. A Port Authority Police Department perdeu 37 oficiais e oito EMTs e paramédicos
-      de unidades privadas de serviços de emergência foram mortos. Cidadãos de mais de 90 países
-      perderam a vida nos ataques ao World Trade Center, inclusive do Brasil. Em 2007, o escritório
-      examinador médico da cidade de York divulgou o número oficial de mortos do 11 de setembro,
-      adicionando a morte de Felicia Dunn-Jones. Dunn-Jones faleceu cinco meses depois do ataque
-      devido a uma doença pulmonar que foi ligada à exposição à poeira durante o colapso do World
-      Trade Center. Heyward Leon, que morreu de linfoma em 2008, foi adicionado ao número oficial de
-      mortes em 2009. De acordo com o relatório da comissão, centenas foram mortos instantaneamente
-      com o impacto, enquanto os demais ficaram presos e morreram após o colapso da torre. Pelo
-      menos 200 pessoas pularam dos edifícios para a morte (caindo nas ruas e telhados de edifícios
-      adjacentes), centenas de metros abaixo. Alguns dos ocupantes de cada torre, e que estavam
-      acima do ponto de impacto, subiram em direção ao teto, na esperança de um resgate por
-      helicóptero, mas as portas de acesso ao telhado estavam bloqueadas. Não existia qualquer plano
-      de resgate de helicóptero em 11 de setembro, ao contrário do ocorrido em 1993; a fumaça e o
-      calor intenso teriam impedido tais aeronaves de realizarem salvamentos. Semanas depois do
-      ataque, o número de vidas perdidas foi estimado em mais de 6 mil. Somente foi possível a
-      identificação dos restos mortais de cerca de 1,6 mil vítimas do atentado ao World Trade
-      Center. O serviço legista também recolheu cerca de 10 mil ossos não identificados e fragmentos
-      de tecidos que não podem ser combinados para a lista dos mortos identificados. Fragmentos de
-      ossos ainda estavam sendo encontrados em 2006, quando os trabalhadores estavam se preparando
-      para demolir o danificado Deutsche Bank Building. Essa operação foi concluída em 2007. Em 2 de
-      abril de 2010 uma equipe de especialistas em antropologia e arqueologia começou a procurar por
-      restos humanos, artefatos humanos e objetos pessoais no aterro sanitário de Fresh Kills, em
-      Staten Island, para onde foi levada parte do entulho das torres. A operação foi concluída em
-      junho de 2010, com 72 restos humanos encontrados, elevando o total de restos humanos
-      encontrados para 1.845. As identidades de 1.629 das 2.753 vítimas foram identificadas. Os
-      perfis de DNA, na tentativa de identificar as vítimas adicionais, são permanentes. Ao
-      contrário dos demais terroristas que fizeram suas aulas de aviação em uma escola na Flórida
-      sem serem detectados, soube-se mais tarde que o responsável por uma escola de pilotagem de
-      Minnesota, desconfiado das atitudes estranhas de um aluno, o francês de origem marroquina
-      Zacarias Moussaoui, que queria apenas aprender a pilotar um avião sem se interessar pelos
-      momentos da decolagem e do pouso, o havia denunciado as autoridades policias. Apesar de ter
-      sido preso, o seu computador não foi vistoriado. Se a investigação tivesse sido feita com mais
-      competência, teriam descobertos todos os planos da Al Qaeda para o dia 11 de setembro.
+      <span class="text-4xl">The victims <br /><br /></span>There were a total of 2,996 deaths,
+      including the 19 kidnappers and the 2,977 victims. The fatal victims were distributed as
+      follows form: 246 in the four planes (where there were no survivors), 2,606 in the World Trade
+      Center and 125 at the Pentagon. All deaths occurred among civilians, except for 55 soldiers
+      affected in the Pentagon building. 411 emergency team members who responded to emergency calls
+      aid workers died when they tried to rescue people and put out the fires. The firefighters of
+      New York City lost 341 men and two paramedics. New York police lost 23 members. The Port
+      Authority Police Department lost 37 officers and eight EMTs and paramedics of private
+      emergency services units were killed. Citizens of more than 90 countries lost their lives in
+      the attacks on the World Trade Center, including from Brazil. In 2007, the office City of York
+      medical examiner has released the official death toll from 9/11, adding the death of Felicia
+      Dunn-Jones. Dunn-Jones died five months after the attack due to a lung disease that was linked
+      to exposure to dust during the collapse of the World Trade Center. Heyward Leon, who died of
+      lymphoma in 2008, was added to the official number of deaths in 2009. According to the
+      commission's report, hundreds were killed instantly with the impact, while the others were
+      trapped and died after the tower collapsed. For the At least 200 people jumped to their deaths
+      from buildings (falling onto streets and rooftops) adjacent), hundreds of meters below. Some
+      of the occupants of each tower, and who were above the point of impact, they climbed toward
+      the ceiling, hoping for a rescue by helicopter, but the roof access doors were blocked. There
+      was no plan helicopter rescue on September 11, unlike what happened in 1993; the smoke and the
+      intense heat would have prevented such aircraft from carrying out rescues. Weeks after the
+      attack, the number of lives lost was estimated at more than 6 thousand. It was only possible
+      to identification of the remains of around 1,600 victims of the World Trade attack Center. The
+      coroner's service also collected around 10,000 unidentified bones and fragments of tissues
+      that cannot be combined for the list of identified dead. Fragments of bones were still being
+      found in 2006 when workers were preparing to demolish the damaged Deutsche Bank Building. This
+      operation was completed in 2007. On 2 April 2010 a team of experts in anthropology and
+      archeology began searching for human remains, human artifacts and personal effects at the
+      Fresh Kills landfill in Staten Island, where some of the rubble from the towers was taken. The
+      operation was completed in June 2010, with 72 human remains found, bringing the total number
+      of human remains found for 1,845. The identities of 1,629 of the 2,753 victims have been
+      identified. You DNA profiles, in an attempt to identify additional victims, are permanent. To
+      the unlike the other terrorists who took their aviation classes at a school in Florida
+      undetected, it was later discovered that the person responsible for a Minnesota, suspicious of
+      the strange attitudes of a student, the Frenchman of Moroccan origin Zacarias Moussaoui, who
+      just wanted to learn how to fly a plane without being interested in the moments of takeoff and
+      landing, he had reported it to the police authorities. despite was arrested, his computer was
+      not inspected. If the investigation had been carried out more competence, they would have
+      discovered all of Al Qaeda's plans for September 11th.
     </div>
 
     <div class="p-2 px-14 mb-4">
-      <span class="text-2xl">Homenagens <br /><br /></span> No chamado marco zero de Nova York, está
-      sendo construída, desde 2006, uma nova torre denominada The Freedom Tower (Torre da
-      Liberdade), que será o edifício mais alto dos Estados Unidos. Sua conclusão está prevista para
-      novembro de 2013, e a sua abertura para janeiro de 2014, quando será oficialmente inaugurada.
-      Concebido pelo arquiteto David Childs, do escritório Skidmore, Owings and Merrill, a parte
-      estrutural está a cargo da WSP Cantor Seinuk, e o desenvolvimento da obra sob responsabilidade
-      da Silverstein Properties, Inc. O novo prédio terá 415 metros de altura, com mais dois metros
-      do telhado, e com a antena que será construída no alto chegará a 541,3 metros. A área
-      construída será de 241.548 metros quadrados. O último andar da Freedom Tower terá o número
-      102, embora o edifício venha a ter 108 andares e apenas 82 ocupados. Isso devido ao primeiro
-      andar de escritórios sobre a base receber o número 20. No exato local onde se encontravam as
-      torres, foram construídos dois espelhos de água, iluminados, com os nomes de todas as vitimas
-      do atentado gravados em uma placa de bronze, incluindo os de 1993, dos aviões e do Pentágono.
-      O presidente Barack Obama, em companhia do ex-presidente George W. Bush, deverá inaugurar o
-      monumento neste dia 11 de setembro. *Antônio Sérgio Ribeiro é advogado e pesquisador. É
-      Diretor do Departamento de Documentação e Informação da Assembleia.
+      <span class="text-4xl">Tributes <br /><br /></span> In the so-called ground zero of New York,
+      there is Since 2006, a new tower called The Freedom Tower has been built. Liberdade), which
+      will be the tallest building in the United States. Its completion is scheduled for November
+      2013, and its opening in January2014, when it will be officially opened. Designed by architect
+      David Childs, from Skidmore, Owings and Merrill, the structural structure is the
+      responsibility of WSP Cantor Seinuk, and the development of the work is under the
+      responsibility of Silverstein Properties, Inc. The new building will be 415 meters tall, with
+      an additional two meters from the roof, and with the antenna that will be built on top it will
+      reach 541.3 meters. The area built will be 241,548 square meters. The top floor of the Freedom
+      Tower will have the number 102, although the building will have 108 floors and only 82 are
+      occupied. This is due to the first office floor on the base will receive the number 20. In the
+      exact place where the towers, two illuminated water mirrors were built with the names of all
+      the victims of the attack engraved on a bronze plaque, including those of 1993, of the planes
+      and of the Pentagon. President Barack Obama, accompanied by former President George W. Bush,
+      is expected to inaugurate the monument on September 11th. *Antônio Sérgio Ribeiro is a lawyer
+      and researcher. AND Director of the Assembly's Documentation and Information Department.
     </div>
   </main>
 </template>

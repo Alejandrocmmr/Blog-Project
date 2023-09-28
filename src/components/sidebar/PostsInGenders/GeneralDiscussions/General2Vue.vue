@@ -1,8 +1,7 @@
 <template>
   <main class="border-4 p-1 text-xl mx-3">
     <div class="text-6xl w-full text-center my-10 px-16">
-      Alertas meteorológicos: veja as regiões do Brasil que estão em atenção para calor sufocante,
-      ventania e tempestades
+      Weather alerts: see the regions of Brazil that are alert for suffocating heat, wind and storms
     </div>
     <div class="p-2 mb-4 flex justify-center">
       <img
@@ -12,73 +11,74 @@
       />
     </div>
     <div class="p-2 px-14 mb-4">
-      O Instituto Nacional de Meteorologia (Inmet) do Ministério da Agricultura e Pecuária (Mapa)
-      tem, nesta quinta-feira (21), sete avisos meteorológicos em vigor no Brasil. O principal deles
-      coloca oito estados do Sul, Sudeste e o Centro-Oeste do Brasil em alerta vermelho (grande
-      perigo) para uma forte onda de calor sufocante com temperaturas que podem superar os 40°C e
-      baixa umidade. O aviso segue válido até o fim da tarde de domingo e atinge as seguintes áreas:
+      The National Institute of Meteorology (Inmet) of the Ministry of Agriculture and Livestock
+      (Mapa) There are, this Thursday (21), seven weather warnings in force in Brazil. The main one
+      puts eight states in the South, Southeast and Central-West of Brazil on red alert (large
+      danger) to a strong suffocating heat wave with temperatures that can exceed 40°C and low
+      humidity. The warning remains valid until late Sunday afternoon and affects the following
+      areas:
     </div>
 
     <div class="p-2 px-14 mb-4">
       <ul>
-        <li>Todo o estado de São Paulo;</li>
-        <li>Todo o estado do Mato Grosso do Sul;</li>
-        <li>Norte do Paraná;</li>
-        <li>Triângulo Mineiro;</li>
-        <li>Centro-Sul, nordeste, sudeste, sudoeste e norte do Mato Grosso;</li>
-        <li>Sul, centro, norte e noroeste de Goiás;</li>
-        <li>Sul do Pará;</li>
-        <li>Leste de Tocantins.</li>
+        <li>The entire state of São Paulo;</li>
+        <li>The entire state of Mato Grosso do Sul;</li>
+        <li>North of Paraná;</li>
+        <li>Mining Triangle;</li>
+        <li>Center-South, northeast, southeast, southwest and north of Mato Grosso;</li>
+        <li>South, center, north and northwest of Goiás;</li>
+        <li>South of Pará;</li>
+        <li>East of Tocantins.</li>
       </ul>
     </div>
 
     <div class="p-2 px-14 mb-4">
-      Calor sufocante atua como uma tampa de panela retendo calor Calor sufocante atua como uma
-      tampa de panela retendo calor, diz meteorologista à CNN | LIVE CNNCalor sufocante atua como
-      uma tampa de panela retendo calor, diz meteorologista à CNN | LIVE CNN Outras áreas estão sob
-      alerta laranja (perigo) para a onda de calor, que indica risco à saúde provocado por
-      temperaturas de até 5º C acima da média. São elas:<br />
+      Suffocating heat acts like a pot lid trapping heat Suffocating heat acts like a pan lid
+      retaining heat, meteorologist tells CNN | LIVE CNNSuffocating heat acts as a pan lid retaining
+      heat, meteorologist tells CNN | LIVE CNN Other areas are under orange alert (danger) for the
+      heat wave, which indicates a health risk caused by temperatures up to 5º C above average. They
+      are:<br />
       <br />
       <ul>
-        <li>Todo o estado do Rio de Janeiro;</li>
-        <li>Sul, oeste, noroeste e norte de Minas;</li>
-        <li>Oeste de Tocantins;</li>
-        <li>Sul do Pará;</li>
-        <li>O restante do estado do Paraná;</li>
-        <li>Todo o estado de Santa Catarina;</li>
-        <li>Norte e noroeste do Rio Grande do Sul.</li>
+        <li>The entire state of Rio de Janeiro;</li>
+        <li>South, west, northwest and north of Minas;</li>
+        <li>West of Tocantins;</li>
+        <li>South of Pará;</li>
+        <li>The remainder of the state of Paraná;</li>
+        <li>The entire state of Santa Catarina;</li>
+        <li>North and northwest of Rio Grande do Sul.</li>
       </ul>
       <br />
-      O Rio Grande do Sul e a porção sul e oeste de Santa Catarina estão sob alerta amarelo (perigo
-      potencial) para tempestade, válido até a manhã de hoje. São previstos até 50 mm/dia de chuva,
-      ventos de até 60 km/h e queda de granizo. O Inmet avisa ainda que há risco de corte de energia
-      elétrica, estragos em plantações, queda de galhos de árvores e de alagamentos. O estado foi
-      alvo de fortes chuvas no início de setembro que provocaram alagamentos e deixaram dezenas de
-      mortos no maior desastre natural da história gaúcha. O Acre, Rondônia, boa parte do Amazonas,
-      o noroeste do Mato Grosso e o sudoeste do Pará também estão sob alerta amarelo, mas para
-      chuvas intensas. Na região, a previsão de chuva e rajadas de vento é a mesma do Rio Grande do
-      Sul, mas sem risco de queda de granizo. Há ainda um alerta amarelo de vendaval em vigor para
-      sete estados do Nordeste. O Inmet prevê ventos de até 60 km/h no interior da região, numa área
-      que abrange partes da Bahia, Alagoas, Pernambuco, Paraíba, Rio Grande do Norte, Ceará e Piauí.
+      Rio Grande do Sul and the southern and western portions of Santa Catarina are under yellow
+      alert (danger potential) for storm, valid until this morning. Up to 50 mm/day of rain is
+      forecast, winds of up to 60 km/h and hail. Inmet also warns that there is a risk of power cuts
+      electricity, damage to crops, falling tree branches and flooding. The state was subject of
+      heavy rains at the beginning of September, which caused flooding and left dozens of killed in
+      the biggest natural disaster in the history of Rio Grande do Sul. Acre, Rondônia, much of
+      Amazonas, the northwest of Mato Grosso and the southwest of Pará are also under yellow alert,
+      but for intense rains. In the region, the forecast of rain and gusts of wind is the same as in
+      Rio Grande do South, but without risk of hail. There is also a yellow gale warning in effect
+      for seven states in the Northeast. Inmet predicts winds of up to 60 km/h in the interior of
+      the region, in an area which covers parts of Bahia, Alagoas, Pernambuco, Paraíba, Rio Grande
+      do Norte, Ceará and Piauí.
     </div>
 
     <div class="p-2 px-14 mb-4">
-      Órgãos mais afetados pelo calor Quais órgãos do corpo humano sofrem mais com onda de calor?
-      Cardiologista responde | CNN NOVO DIAQuais órgãos do corpo humano sofrem mais com onda de
-      calor? Cardiologista responde | CNN NOVO DIA Em entrevista à CNN nesta quarta-feira (20),
-      Stéphanie Rizk, cardiologista da Rede DOr e do Sírio-Libanês, contou quais são os órgãos do
-      corpo humano mais prejudicados pelas condições impostas pela onda de calor. Veja abaixo:, Rins
-      Segundo Rizk, os rins são os órgãos mais afetados, sobretudo por conta da desidratação
-      provocada pela água consumida pelo mecanismo de regulação térmica — que faz o corpo suar para
-      diminuir a temperatura do corpo. “[O mais prejudicado é] o rim, em primeiro lugar. A princípio
-      ele, diminui a filtração, concentra a urina, e pode aumentar a formação de pedras no rim”,
-      explicou a cardiologista. Coração Conforme apontou a médica, o coração pode ser atingido
-      porque, no processo de regulação da temperatura corporal, ocorre a vasodilatação, isto é,
-      aumento do fluxo sanguíneo. Isso aumenta o ritmo do coração, o que, por sua vez, pode ser
-      perigoso caso a pessoa tenha alguma comorbidade prévia. “O coração [é afetado], principalmente
-      se alguém tem alguma insuficiência cardíaca. Com a vasodilatação, que ocorre para a gente
-      dissipar esse calor, o coração acelera e isso pode culminar com alguma descompensação de
-      alguma doença”, afirmou.
+      Organs most affected by heat Which organs in the human body suffer most from heat waves?
+      Cardiologist responds | CNN NEW DAYWhich organs in the human body suffer most from a wave of
+      heat? Cardiologist responds | CNN NEW DAY In an interview with CNN this Wednesday (20),
+      Stéphanie Rizk, cardiologist at Rede DOr and Sírio-Libanês, explained which organs are human
+      body most harmed by the conditions imposed by the heat wave. See below:, Kidneys According to
+      Rizk, the kidneys are the most affected organs, mainly due to dehydration. caused by the water
+      consumed by the thermal regulation mechanism — which makes the body sweat to lower body
+      temperature. “[The most affected is] the kidney, first of all. At first it reduces filtration,
+      concentrates urine, and can increase the formation of kidney stones”, explained the
+      cardiologist. Heart As the doctor pointed out, the heart can be affected because, in the
+      process of regulating body temperature, vasodilation occurs, that is, increased blood flow.
+      This increases the heart rate, which in turn can be dangerous if the person has any previous
+      comorbidity. “The heart [is affected], mainly if someone has heart failure. With vasodilation,
+      which occurs for us dissipate this heat, the heart accelerates and this can culminate in some
+      decompensation of some illness,” she stated.
     </div>
   </main>
 </template>

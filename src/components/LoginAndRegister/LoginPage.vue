@@ -55,7 +55,7 @@ let conection = async () => {
         <label for="LoginParameterLogin" class="text-3xl">Your Email</label>
         <input
           type="email"
-          class="w-full rounded-md px-2.5 py-1 text-2xl input"
+          class="w-full rounded-md px-2.5 py-1 text-4xl input"
           name="LoginParameterLogin"
           id="LoginParameterLogin"
           placeholder="Your Email"

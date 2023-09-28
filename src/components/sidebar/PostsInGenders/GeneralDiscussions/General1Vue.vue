@@ -1,8 +1,8 @@
 <template>
   <main class="border-4 p-1 text-xl mx-3">
     <div class="text-6xl w-full text-center my-10 px-16">
-      STF retoma julgamento sobre o marco temporal nesta quinta (21); placar é de 5 a 2 para
-      invalidar tese
+      STF resumes judgment on the time frame this Thursday (21); score is 5 to 2 for invalidate
+      thesis
     </div>
     <div class="p-2 mb-4 flex justify-center">
       <img
@@ -12,34 +12,35 @@
       />
     </div>
     <div class="p-2 px-14 mb-4">
-      O Supremo Tribunal Federal (STF) deve retomar, nesta quinta-feira (21), o julgamento do marco
-      temporal para demarcação de terras indígenas. O placar até o momento está 5 a 2 para invalidar
-      a tese do marco temporal. A discussão sobre o tema vai começar às 14 horas. O ministro Luiz
-      Fux deve iniciar a sessão com o seu voto. Além do dele, ainda faltam os votos dos ministros
-      Gilmar Mendes, Cármen Lúcia e Rosa Weber.
+      The Federal Supreme Court (STF) is expected to resume, this Thursday (21), the trial of the
+      landmark time for demarcation of indigenous lands. The score so far is 5-2 to invalidate the
+      time frame thesis. The discussion on the topic will begin at 2 pm. Minister Luiz Fux must
+      start the session with his vote. In addition to his, there are still votes from the ministers
+      Gilmar Mendes, Cármen Lúcia and Rosa Weber.
     </div>
 
     <div class="p-2 px-14 mb-4">
-      O marco temporal é uma tese defendida por ruralistas, estabelecendo que a demarcação de uma
-      terra indígena só pode ocorrer se for comprovado que os povos estavam sobre o espaço requerido
-      em 5 de outubro de 1988 quando a Constituição atual foi promulgada. Na quarta-feira (20), o
-      ministro Dias Toffoli concluiu seu voto contrário à validade da tese. Após o parecer do
-      magistrado, a sessão foi suspensa. Em seu voto, Toffoli argumentou que “o intuito
-      constitucional é assegurar o direito às terras indígenas a partir das concepções dos próprios
-      povos sobre sua terra, de modo que ocupação se de conforme usos, costumes e tradições”. Além
-      de Toffoli, os ministros Edson Fachin, que é relator do caso, Alexandre de Moraes, Cristiano
-      Zanin e Luís Roberto Barroso foram contrários ao marco temporal. Já os ministros André
-      Mendonça e Kassio Nunes Marques votaram a favor da tese.
+      The time frame is a thesis defended by ruralists, establishing that the demarcation of a
+      indigenous land can only occur if it is proven that the people were in the required space on
+      October 5, 1988 when the current Constitution was promulgated. On Wednesday (20), the Minister
+      Dias Toffoli concluded his vote against the validity of the thesis. After the opinion of the
+      magistrate, the session was suspended. In his vote, Toffoli argued that “the intention
+      constitutional is to ensure the right to indigenous lands based on the conceptions of the
+      people themselves peoples over their land, so that occupation is in accordance with uses,
+      customs and traditions”. In addition of Toffoli, ministers Edson Fachin, who is the case's
+      rapporteur, Alexandre de Moraes, Cristiano Zanin and Luís Roberto Barroso were against the
+      time frame. Ministers André Mendonça and Kassio Nunes Marques voted in favor of the thesis.
     </div>
 
     <div class="p-2 px-14 mb-4">
-      Há a expectativa de que cerca de 300 indígenas acompanhem a sessão do lado de fora do Supremo,
-      por meio de um telão montado sob tendas. Alguns grupos indígenas costumam se mobilizar em
-      caravanas até Brasília nos dias em que o caso está em pauta. Nesta semana, a Articulação dos
-      Povos Indígenas do Brasil (Apib) organiza um acampamento no Memorial dos Povos Indígenas, a
-      cerca de seis quilômetros da Praça dos Três Poderes, onde fica a sede da Corte. O caso em
-      discussão no STF tem relevância, porque, com a decisão, o que for decidido valerá para todos
-      os casos de demarcação de terras indígenas que estejam sendo discutidos na Justiça.
+      It is expected that around 300 indigenous people will attend the session outside the Supreme
+      Court, via a screen mounted under tents. Some indigenous groups tend to mobilize in caravans
+      to Brasília on the days when the case is being discussed. This week, the Articulation of
+      Indigenous Peoples of Brazil (Apib) organizes a camp at the Memorial dos Povos Indígenas, the
+      about six kilometers from Praça dos Três Poderes, where the Court’s headquarters are located.
+      The case in discussion in the STF is relevant, because, with the decision, what is decided
+      will apply to everyone cases of demarcation of indigenous lands that are being discussed in
+      court.
     </div>
   </main>
 </template>

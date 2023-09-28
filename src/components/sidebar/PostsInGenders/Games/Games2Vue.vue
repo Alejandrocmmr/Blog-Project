@@ -1,8 +1,6 @@
 <template>
   <main class="border-4 p-1 text-xl mx-3">
-    <div class="text-6xl w-full text-center my-10">
-      Comunidade de Diablo IV ainda está descontente
-    </div>
+    <div class="text-6xl w-full text-center my-10">Diablo IV community is still unhappy</div>
     <div class="p-2 mb-4 flex justify-center">
       <img
         src="../../../../assets/imgsToNews/GAMES2IMG.webp"
@@ -11,47 +9,46 @@
       />
     </div>
     <div class="p-2 px-14 mb-4">
-      Uma das primeiras grandes atualizações que Diablo IV recebeu, o patch 1.1 é lembrado até hoje
-      por ter nerfado várias habilidades e tornado o endgame do jogo mais trabalhoso. Os efeitos que
-      ele deixou foram tão duradouros que estão sendo corrigidos até hoje pela Blizzard, que lançou
-      no final da semana passada um hotfix destinado a tornar a progressão pelo RPG um pouco mais
-      fácil.
+      One of the first major updates that Diablo IV received, patch 1.1 is still remembered today
+      for having nerfed several skills and made the game's endgame more laborious. The effects that
+      he left were so lasting that they are still being corrected today by Blizzard, which released
+      at the end of last week a hotfix aimed at making progression through the RPG a little more
+      easy.
     </div>
 
     <div class="p-2 px-14 mb-4">
-      Conforme aponta o Games Radar, a pequena atualizou aumentou consideravelmente os bônus de
-      experiência recebidos ao encarar as dificuldades mais altas do título. Agora os jogadores vão
-      ganhar uma quantidade 5% maior de pontos no Patamar de Mundo 3, valor que sobe para 15% no
-      Patamar 4.
+      As Games Radar points out, the small update considerably increased the bonuses experience
+      received when facing the highest difficulties of the title. Now the players will earn 5% more
+      points in World Level 3, a value that increases to 15% in Level 4.
     </div>
 
     <div class="p-2 px-14 mb-4">
-      Isso deve ajudar a compensar um pouco os cortes nos pontos de experiência que os personagens
-      de Diablo IV ganhavam ao derrotar monstros em nível mais alto. Quando o patch 1.1 foi
-      implementado, a Blizzard decidiu reduzir de 25% para 15% as recompensas obtidas ao matar
-      criaturas com 10 níveis (ou mais) acima daquele que o personagem controlado tinha.
+      This should help offset some of the cuts in experience points that characters from Diablo IV
+      they gained by defeating monsters at a higher level. When patch 1.1 was released implemented,
+      Blizzard decided to reduce the rewards obtained from killing from 25% to 15% creatures with 10
+      levels (or more) above what the controlled character had.
     </div>
 
     <div class="p-2 px-14 mb-4">
-      <span class="text-2xl">Comunidade de Diablo IV ainda está descontente <br /><br /></span>
-      Apesar de o hotfix ter melhorado o processo de evolução do jogo, sua recepção não foi tão
-      calorosa quando poderia ser. No Reddit, membros da comunidade de Diablo IV afirmaram que
-      preferiam que a Blizzard nunca tivesse implementado as mudanças do patch 1.1 e, com isso,
-      também não precisasse corrigir seus efeitos.
+      <span class="text-4xl">Diablo IV community is still unhappy <br /><br /></span>
+      Although the hotfix improved the game's evolution process, its reception was not as warm when
+      it could be. On Reddit, members of the Diablo IV community stated that preferred that Blizzard
+      had never implemented the changes from patch 1.1 and, as a result, also did not need to
+      correct its effects.
     </div>
 
     <div class="p-2 px-14 mb-4">
-      “Blizzard clássica. Reduza a experiência, depois dê a experiência de volta, chame isso de um
-      hotfix/patch”, afirmou o comentário de SQRTLURFACE, que aparece em destaque entre as respostas
-      de uma publicação feita pela desenvolvedora. Isso mostra que, apesar das tentativas do
-      estúdio, ele ainda não conseguiu recuperar a boa relação que mantinha com seu público.
+      “Classic blizzard. Reduce experience, then give experience back, call it a hotfix/patch”,
+      stated the comment by SQRTLURFACE, which appears prominently among the answers from a
+      publication made by the developer. This shows that, despite the attempts of the studio, he
+      still hasn't managed to regain the good relationship he had with his audience.
     </div>
 
     <div class="p-2 px-14 mb-4">
-      A Blizzard afirma que vai continuar trabalhando para melhorar o RPG de ação, seja na forma de
-      expansões futuras ou pelo oferecimento de novas temporadas. O título vai ganhar em outubro
-      deste ano sua Temporada de Sangue, que promete trazer uma nova linha narrativa e várias
-      mecânicas inspiradas pelo universo dos vampiros.
+      Blizzard says it will continue working to improve the action RPG, whether in the form of
+      future expansions or by offering new seasons. The title will win in October This year's Season
+      of Blood, which promises to bring a new narrative line and several mechanics inspired by the
+      vampire universe.
     </div>
   </main>
 </template>

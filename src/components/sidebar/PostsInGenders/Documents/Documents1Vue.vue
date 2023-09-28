@@ -1,7 +1,7 @@
 <template>
   <main class="border-4 p-1 text-xl mx-3">
     <div class="text-6xl w-full text-center my-10 px-16">
-      Saiba como verificar se seu nome está sujo e o que fazer para regularizar o CPF
+      Find out how to check if your name is dirty and what to do to regularize your CPF
     </div>
     <div class="p-2 mb-4 flex justify-center">
       <img
@@ -11,54 +11,54 @@
       />
     </div>
     <div class="p-2 px-14 mb-4">
-      Ser impedido de fazer compras a prazo, não conseguir empréstimos em banco, ter um cartão de
-      crédito negado são algumas das consequências para quem está com o CPF negativado. Para saber
-      se o seu nome está nessa condição, é preciso consultar o cadastro de empresas especializadas
-      nesse serviço, que registra a inadimplência de consumidores. Os dados são repassados por
-      empresas que contrataram a consultoria, formando um banco de dados.
+      Being prevented from making installment purchases, not being able to obtain bank loans, having
+      a credit card Denied credit are some of the consequences for those who have a negative CPF. To
+      know If your name is in this condition, you need to consult the register of specialized
+      companies in this service, which records consumer defaults. The data is passed on by companies
+      that hired the consultancy, forming a database.
     </div>
 
     <div class="p-2 px-14 mb-4">
-      “No momento em que alguma empresa for conceder um crédito, ela faz consulta ao CPF e verifica
-      o histórico do consumidor nos últimos cinco anos. Quanto mais dívidas ele tiver no histórico,
-      pior pagador ele é classificado e menos crédito no mercado vai conseguir”, explica Aline
-      Maciel, gerente da Serasa, uma das empresas que prestam o serviço especializado.
+      “When a company is going to grant credit, it consults the CPF and checks consumer history over
+      the last five years. The more debts he has in his history, He is classified as the worst payer
+      and will get less credit in the market”, explains Aline Maciel, manager of Serasa, one of the
+      companies that provides the specialized service.
     </div>
 
     <div class="p-2 px-14 mb-4">
-      Enquanto as empresas que contratam o serviço podem consultar qualquer CPF, o consumidor pode
-      checar nas plataformas disponíveis apenas a sua situação. Para saber se está negativado, é
-      preciso fazer um registro informando nome completo e data de nascimento, que vai gerar um
-      login e uma senha. Gratuitamente, além da Serasa, é possível consultar a condição de acesso a
-      crédito no Serviço Central de Proteção ao Crédito (SCPC), que é administrado pela Boa Vista.
-      No SPC Brasil, o serviço é pago. Ao acessar a plataforma, o consumidor fica sabendo se é
-      considerado bom ou mau pagador, além disso pode negociar a dívida com a intermediação da
-      empresa de consulta de crédito. O período para ser negativado depende do estado em São Paulo
-      são 20 dias, mas em outros o prazo é menor, de dez dias. As dívidas podem ser consultadas,
-      liquidadas ou parceladas. A Serasa, por exemplo, tem um cadastro com quase 65 milhões de CPFs
-      inadimplentes, o que soma mais de 200 milhões de dívidas. Aline Maciel explica que a
-      prescrição da negativação do CPF, que ocorre após cinco anos, diz respeito ao nome constar no
-      cadastro.
+      While companies that hire the service can consult any CPF, the consumer can Check only your
+      situation on the available platforms. To find out if you are negative, it is I need to
+      register stating my full name and date of birth, which will generate a login and a password.
+      For free, in addition to Serasa, it is possible to consult the access conditions to credit at
+      the Central Credit Protection Service (SCPC), which is administered by Boa Vista. At SPC
+      Brasil, the service is paid. When accessing the platform, the consumer finds out if it is
+      considered a good or bad payer, in addition, you can negotiate the debt with the
+      intermediation of the credit consultation company. The period to be negative depends on the
+      state in São Paulo it is 20 days, but in others the period is shorter, ten days. Debts can be
+      consulted, settled or paid in installments. Serasa, for example, has a registry with almost 65
+      million CPFs defaulters, which adds up to more than 200 million debts. Aline Maciel explains
+      that the prescription for CPF denial, which occurs after five years, concerns the name
+      appearing on the register.
     </div>
 
     <div class="p-2 px-14 mb-4">
-      “Aquela dívida não restringe mais o crédito do consumidor, mas ele continua devendo”, afirma.
+      “That debt no longer restricts the consumer’s credit, but he continues to owe,” he states.
     </div>
 
     <div class="p-2 px-14 mb-4">
-      No cadastro da Serasa, por exemplo, o consumidor, mesmo tendo saído da restrição de crédito,
-      pode consultar as dívidas e negociá-las. A gerente alerta para os riscos de fraude, com envios
-      de boletos falsos para negociação de dívidas.
+      In the Serasa register, for example, the consumer, even having left the credit restriction,
+      You can check your debts and negotiate them. The manager warns of the risks of fraud, with
+      shipments of fake invoices for debt negotiation.
     </div>
 
     <div class="p-2 px-14 mb-4">
-      “Os fraudadores acionam as pessoas pelo WhatsApp, dão uma condição super baixa, e as pessoas
-      que já estão devendo acabam pagando esses boletos fraudulentos. O consumidor deve olhar o
-      boleto para ter certeza que ele é verdadeiro”, destaca.
+      “Fraudsters contact people via WhatsApp, give a super low condition, and people Those who
+      already owe end up paying these fraudulent bills. The consumer should look at the bill to make
+      sure it is real”, he highlights.
     </div>
     <div class="p-2 px-14 mb-4">
-      Ela orienta ainda que sejam procuradas as plataformas ou as empresas onde se contraiu a dívida
-      para confirmar a oferta de negociação.
+      It also advises that the platforms or companies where the debt was contracted be sought. to
+      confirm the trade offer.
     </div>
   </main>
 </template>

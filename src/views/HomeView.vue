@@ -17,60 +17,52 @@ let RandonNumber = () => {
   return Math.floor(Math.random() * 11)
 }
 
-let finalCharge: any
+let finalCharged: any
 
 let charged = () => {
   let prov = RandonNumber()
   switch (prov) {
     case 0:
-      finalCharge = Documents1Vue
+      finalCharged = Documents1Vue
       break
     case 1:
-      finalCharge = Documents2Vue
+      finalCharged = Documents2Vue
       break
     case 2:
-      finalCharge = Games1Vue
+      finalCharged = Games1Vue
       break
     case 3:
-      finalCharge = Games2Vue
+      finalCharged = Games2Vue
       break
     case 4:
-      finalCharge = General1Vue
+      finalCharged = General1Vue
       break
     case 5:
-      finalCharge = General2Vue
+      finalCharged = General2Vue
       break
     case 6:
-      finalCharge = Home1Vue
+      finalCharged = Home1Vue
       break
     case 7:
-      finalCharge = Home2Vue
+      finalCharged = Home2Vue
       break
     case 8:
-      finalCharge = News1Vue
+      finalCharged = News1Vue
       break
     case 9:
-      finalCharge = News2Vue
+      finalCharged = News2Vue
       break
     case 10:
-      finalCharge = Social1Vue
+      finalCharged = Social1Vue
       break
     case 11:
-      finalCharge = Social2Vue
+      finalCharged = Social2Vue
       break
     default:
-      finalCharge = Games1Vue
+      finalCharged = Games1Vue
   }
 }
 charged()
-// let random = () => {
-//   if (variable.value === true) {
-//     return SideBar
-//   } else {
-//     return ContactView
-//   }
-// }
-// let variable = ref(false)
 </script>
 
 <template>
@@ -79,7 +71,7 @@ charged()
       <div class="bg-gray-800 rounded-lg text-center pt-5 text-6xl my-4 w-8/12 h-24 m-auto">
         Welcome, See Some Of Our Posts
       </div>
-      <component :is="finalCharge"></component>
+      <component :is="finalCharged"></component>
     </main>
 
     <SideBar />

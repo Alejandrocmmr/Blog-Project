@@ -1,7 +1,7 @@
 <template>
   <main class="border-4 p-1 text-xl mx-3">
     <div class="text-6xl w-full text-center my-10">
-      Duas pessoas morrem após desabamento de ciclovia no Rio
+      Two people die after bike path collapses in Rio
     </div>
     <div class="p-2 mb-4 flex justify-center">
       <img
@@ -11,49 +11,50 @@
       />
     </div>
     <div class="p-2 px-14 mb-4">
-      Um trecho de cerca de 20 metros da Tim Maia, na Avenida Niemeyer, em São Conrado, na Zona Sul
-      do Rio, desabou na manhã desta quinta-feira (21), pouco mais de três meses após sua
-      inauguração. Segundo os Bombeiros, duas pessoas morreram no local após cair no mar. Uma
-      terceira vítima ainda é procurada. Um inquérito foi aberto na 15ª Delegacia de Polícia (Gávea)
-      para investigar as causas do acidente. Perícias aéreas e terrestres já foram realizadas e
-      outras ainda serão realizadas, quando a maré baixar.
+      A section of approximately 20 meters from Tim Maia, on Avenida Niemeyer, in São Conrado, in
+      the South Zone of Rio, collapsed on the morning of this Thursday (21), just over three months
+      after its Opening. According to firefighters, two people died at the scene after falling into
+      the sea. One third victim is still sought. An investigation was opened at the 15th Police
+      Station (Gávea) to investigate the causes of the accident. Aerial and ground inspections have
+      already been carried out and others will still be carried out, when the tide goes down.
     </div>
 
     <div class="p-2 px-14 mb-4">
-      Uma das vítimas foi identificada como Eduardo Marinho Albuquerque, de 54 anos. Segundo o
-      cunhado dele, João Ricardo Tinoco, ele morava em Ipanema, também na Zona Sul. Ele deixa mulher
-      e um filho de 15 anos. “Ele falou que ia chegar ao meio-dia em casa, aí a minha irmã, que é
-      médica e estava indo operar, sentiu um aperto no coração e pediu para eu ligar e ele sempre
-      corre naquela direção da Niemeyer, que é bonita. Ela me ligou e pediu uma ajuda. Como eu
-      estava aqui pertinho, eu parei o carro e vim ver se era ele. Eu que vi pela primeira vez [o
-      corpo]. Não ficou boa essa ciclovia, porque se logo no início já caiu. Realmente foi uma
-      fatalidade horrível. Ele era corredor, sempre corria”, contou o cunhado (veja no vídeo
-      abaixo).
+      One of the victims was identified as Eduardo Marinho Albuquerque, 54 years old. According to
+      the his brother-in-law, João Ricardo Tinoco, he lived in Ipanema, also in the South Zone. He
+      leaves behind a wife and a 15-year-old son. “He said he would arrive home at noon, then my
+      sister, who is doctor and was going to operate, he felt a pang in his heart and asked me to
+      call and he always run in the direction of Niemeyer, which is beautiful. She called me and
+      asked for help. Like me He was nearby, I stopped the car and came to see if it was him. I saw
+      it for the first time [the body]. This cycle path was not good, because it fell off right from
+      the beginning. It really was a horrible fatality. He was a runner, he always ran”, said his
+      brother-in-law (see the video below).
     </div>
 
     <div class="p-2 px-14 mb-4">
-      O segundo corpo encontrado não havia sido identificado até a última atualização desta
-      reportagem. Segundo frequentadores e motoristas que passavam por lá, a ciclovia foi atingida
-      por uma forte onda que, além de destruir o local, também quebrou o parabrisa de um ônibus e
-      teria arrastado uma mulher no calçadão.
+      The second body found had not been identified until the last update of this reporting.
+      According to regulars and drivers passing by, the bike lane was hit. by a strong wave that, in
+      addition to destroying the place, also broke the windshield of a bus and allegedly dragged a
+      woman on the boardwalk.
     </div>
 
     <div class="p-2 px-14 mb-4">
-      <span class="text-2xl"> 'Imperdoável'<br /><br /></span>, diz Prefeitura O secretário
-      Executivo de Governo, Pedro Paulo Carvalho, garantiu que não há riscos de novos desabamentos e
-      classificou o acidente como "imperdoável". O mesmo adjetivo foi usado pelo prefeito Eduardo
-      Paes, em nota divulgada pouco depois (leia a íntegra no fim da reportagem). "É imperdoável o
-      que aconteceu, já determinei a apuração imediata dos fatos e estou voltando para o Brasil para
-      acompanhar de perto", disse o prefeito, que saiu à noite do Rio (veja a íntegra da nota no fim
-      da reportagem).
+      <span class="text-4xl"> 'Unforgivable'<br /><br /></span>, says City Hall The secretary
+      Government Executive, Pedro Paulo Carvalho, guaranteed that there is no risk of new collapses
+      and classified the accident as "unforgivable". The same adjective was used by Mayor Eduardo
+      Paes, in a note released shortly afterwards (read the full text at the end of the report). "It
+      is unforgivable what happened, I have already determined the immediate investigation of the
+      facts and I am returning to Brazil to follow closely", said the mayor, who left Rio at night
+      (see the full note at the end of the report).
     </div>
 
     <div class="p-2 px-14 mb-4">
-      O secretário confirmou que há suspeita de que mais uma vítima ainda esteja desaparecida e que
-      a prefeitura vai trabalhar com técnicos que fizeram a obra. “Ainda há suspeitas de uma pessoa
-      no mar. Ainda não há confirmação, mas o Corpo de Bombeiros trabalha com a possibilidade de
-      mais uma vítima. Nós não vamos trabalhar com especulação. Vamos trabalhar com os técnicos que
-      fizeram a obra para saber realmente o que causou o acidente”, afirmou o secretário.
+      The secretary confirmed that there is a suspicion that one more victim is still missing and
+      that the city hall will work with technicians who carried out the work. “There is still
+      suspicion of a person at sea. There is still no confirmation, but the Fire Department is
+      working on the possibility of another victim. We are not going to work on speculation. We will
+      work with the technicians who They did the work to really find out what caused the accident”,
+      stated the secretary.
     </div>
   </main>
 </template>

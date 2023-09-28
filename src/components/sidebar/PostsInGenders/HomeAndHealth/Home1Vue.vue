@@ -1,6 +1,6 @@
 <template>
   <main class="border-4 p-1 text-xl mx-3">
-    <div class="text-6xl w-full text-center my-10">5 ideias para montar um bar em casa</div>
+    <div class="text-6xl w-full text-center my-10">5 ideas for setting up a bar at home</div>
     <div class="p-2 mb-4 flex justify-center">
       <img
         src="../../../../assets/imgsToNews/HOME1IMG.jpeg"
@@ -9,67 +9,65 @@
       />
     </div>
     <div class="p-2 px-14 mb-4">
-      Difícil encontrar quem não goste de receber — ou de ser recebido — numa reunião entre amigos
-      dentro de casa, ambiente mais confortável e acolhedor. Cardápio e trilha sonora bem planejados
-      fazem parte da preparação, assim como as bebidas e os drinques que serão oferecidos.“Ter um
-      bar em casa deixou de ser algo raro e fora de alcance. Tem sido um pedido recorrente dos
-      clientes da Todos reservar um espaço para acomodar garrafas e acessórios na área social de
-      apartamentos e casas”, revela Fábio Mota, sócio do escritório paulistano ao lado do arquiteto
-      Mauricio Arruda. Há inúmeras maneiras de inserir um bar no décor, e tudo depende do espaço
-      disponível no projeto. As opções incluem dedicar um móvel alto para acomodar a coleção de
-      louças, taças e afins, até reunir tudo numa bandeja na varanda. Carrinhos de chá assumem nova
-      função e, para os fãs de mixologia, investir na marcenaria sob medida pode fazer a diferença,
-      como nos exemplos a seguir.
+      It's difficult to find someone who doesn't like to receive — or be received — at a meeting
+      between friends indoors, a more comfortable and welcoming environment. Well-planned menu and
+      soundtrack are part of the preparation, as are the drinks that will be offered. “Having a A
+      home bar is no longer something rare and out of reach. It has been a recurring request from
+      Todos customers reserve a space to accommodate bottles and accessories in the social area of
+      apartments and houses”, reveals Fábio Mota, partner at the São Paulo office alongside the
+      architect Mauricio Arruda. There are countless ways to insert a bar into the decor, and it all
+      depends on the space. available in the project. Options include dedicating a tall piece of
+      furniture to accommodate the collection of crockery, glasses and the like, until they all come
+      together on a tray on the balcony. Tea carts take on new function and, for fans of mixology,
+      investing in bespoke joinery can make a difference, as in the following examples.
     </div>
 
     <div class="p-2 px-14 mb-4">
-      À moda antiga feito com madeira de demolição viajou de São Paulo até Trancoso, BA, para
-      assumir o papel de louceiro e bar na casa destinada à locação temporária. <br /><br />
-      Casual na medida Reunir bebidas numa bandeja sobre o aparador abre espaço para um ambiente
-      informal, como pede uma noite de drinques em casa. <br /><br />
-      Foco na portabilidade Concentrar bebidas e acessórios num carrinho permite que ele passeie
-      livremente pelo ambiente e vá da sala para a cozinha, a varanda, o home theater.
-      <br /><br />Secreto ocasional Seguindo as normas dos speakeasy que surgem por aí, essa versão
-      se esconde atrás da porta de correr e só se revela quando necessário.<br /><br />
-      Exibido sim, senhor, Dentro da marcenaria, a caixa rebaixada protege as garrafas e cria um
-      efeito divertido com a iluminação interna dando o clima do momento.
+      The old-fashioned way, made with demolition wood, traveled from São Paulo to Trancoso, BA, to
+      take on the role of dishwasher and bar in the house intended for temporary rental.
+      <br /><br />
+      Just as casual Gathering drinks on a tray on the sideboard opens up space for a informal, like
+      a night of drinks at home. <br /><br />
+      Focus on portability Concentrating drinks and accessories in one cart allows it to go on the
+      go freely through the environment and go from the living room to the kitchen, the balcony, the
+      home theater.
+      <br /><br />Occasional Secret Following the standards of speakeasys that are emerging around
+      the world, this version hides behind the sliding door and only reveals itself when
+      necessary.<br /><br />
+      Displayed Yes Sir, Inside the joinery, the recessed box protects the bottles and creates a fun
+      effect with internal lighting setting the mood of the moment.
     </div>
 
     <div class="p-2 px-14 mb-4">
-      O que você precisa para montar seu bar em casa Pedimos ajuda ao bartender Rubens Lima,
-      responsável pelos drinques do restaurante Nakka em São Paulo, com a lista das bebidas e
-      acessórios para quem deseja receber bem os amigos em casa. “É uma ideia divertida, rende
-      ótimos momentos com amigos e familiares. A seleção de bebidas deve ser baseada nas
-      preferências dos seus convidados e em sua própria preferência pessoal. Divirta-se
-      experimentando e descobrindo novos sabores”, resume.
+      What you need to set up your bar at home We asked bartender Rubens Lima for help, responsible
+      for drinks at the Nakka restaurant in São Paulo, with a list of drinks and accessories for
+      those who want to welcome friends at home. “It’s a fun idea, it makes great times with friends
+      and family. Beverage selection should be based on your guests' preferences and your own
+      personal preference. Have a good time experimenting and discovering new flavors”, he
+      summarizes.
     </div>
 
     <div class="p-2 px-14 mb-4">
-      <span class="text-2xl"> Utensílios <br /><br /></span>
-      Coqueteleira: essencial para preparar coquetéis clássicos e agitar suas misturas. Copos de
-      bar: tenha uma variedade de copos, como copos baixos (tumbler), copos altos (highball), copos
-      para martini, copos para margarita, entre outros. Dosador: um utensílio para medir as
-      quantidades exatas dos ingredientes dos coquetéis. Colher bailarina: uma colher longa e
-      torcida usada para misturar coquetéis no copo. Socador de muddler: permite macerar frutas,
-      ervas e açúcar para liberar seus sabores e aromas em coquetéis. Abridor de garrafas: tenha um
-      abridor de garrafas de qualidade para abrir garrafas de cerveja ou outras bebidas. Peneiras
-      para coar os coquetéis Coador Strainer Pegadores para gelo.
+      <span class="text-4xl"> Utensils <br /><br /></span>
+      Cocktail shaker: essential for preparing classic cocktails and shaking your mixes. Cups of
+      bar: have a variety of glasses, such as tumbler glasses, highball glasses, for martini,
+      margarita glasses, among others. Doser: a utensil for measuring exact quantities of cocktail
+      ingredients. Ballerina spoon: a long and twist used to mix cocktails in the glass. Muddler
+      tamper: allows you to macerate fruits, herbs and sugar to release their flavors and aromas in
+      cocktails. Bottle opener: have one Quality bottle opener for opening bottles of beer or other
+      drinks. Sieves to strain cocktails Strainer Strainer Ice holders.
     </div>
 
     <div class="p-2 px-14 mb-4">
-      <span class="text-2xl"> Bebidas<br /><br /></span>
+      <span class="text-4xl"> Drinks<br /><br /></span>
 
-      Destilados: vodka, rum, tequila, uísque, gim e conhaque. Vermutes: doce e seco, para preparar
-      coquetéis como o clássico Dry Martini ou negroni Licores: tenha algumas opções populares, como
-      licor de laranja, licor de café, licor de Amaretto. Bitters: como Angostura para adicionar
-      sabor e complexidade aos coquetéis, tenha também um bitter italiano (Campari). Refrigerantes,
-      sucos e água tônica: essas bebidas são essenciais para misturar com destilados e criar
-      coquetéis refrescantes. Ingredientes para coquetéis: frutas frescas, ervas, xaropes simples,
-      açúcar, limões, limas, entre outros, para criar uma variedade de coquetéis.
-    </div>
-
-    <div class="p-2 px-14 mb-4">
-      <span class="text-2xl"> <br /><br /></span>
+      Spirits: vodka, rum, tequila, whiskey, gin and cognac. Vermouths: sweet and dry, to prepare
+      cocktails like the classic Dry Martini or negroni Liqueurs: have some popular options, like
+      orange liqueur, coffee liqueur, Amaretto liqueur. Bitters: like Angostura to add flavor and
+      complexity to cocktails, also have an Italian bitter (Campari). Soft drinks, juices and tonic
+      water: these drinks are essential to mix with spirits and create refreshing cocktails.
+      Cocktail ingredients: fresh fruits, herbs, simple syrups, sugar, lemons, limes, among others,
+      to create a variety of cocktails.
     </div>
   </main>
 </template>

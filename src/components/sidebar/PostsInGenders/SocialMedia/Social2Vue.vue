@@ -1,7 +1,7 @@
 <template>
   <main class="border-4 p-1 text-xl mx-3">
     <div class="text-6xl w-full text-center my-10 px-16">
-      WhatsApp estreia no Brasil os Canais, que mudam o app como você o conhece
+      WhatsApp launches Channels in Brazil, which change the app as you know it
     </div>
     <div class="p-2 mb-4 flex justify-center">
       <img
@@ -11,83 +11,80 @@
       />
     </div>
     <div class="p-2 px-14 mb-4">
-      Depois de funcionar abaixo do radar durante três meses em apenas nove países, os Canais do
-      WhatsApp finalmente chegam ao Brasil nesta quarta-feira (13), em um lançamento global que
-      contemplará mais de 150 países. Na largada, os usuários encontrarão espaços verificados de
-      personalidades (Luciano Huck), do governo (Desenrola e do Ministério da Fazenda), esportivas
-      (NBA Brasil) e veículos de imprensa (UOL).
+      After operating below the radar for three months in just nine countries, Canals do WhatsApp
+      finally arrives in Brazil this Wednesday (13), in a global launch that will cover more than
+      150 countries. At the start, users will find verified parking spaces personalities (Luciano
+      Huck), from the government (Desenrola and the Ministry of Finance), sports (NBA Brazil) and
+      press vehicles (UOL).
     </div>
 
     <div class="p-2 px-14 mb-4">
-      Destinada a permitir que administradores enviem conteúdo a um número ilimitado de pessoas, a
-      função tem potencial de mudar a forma como você se relaciona com o WhatsApp. De cara, ela já
-      mexeu no jeitão do próprio aplicativo funcionar, porque: <br /><br />
-      <span class="text-2xl">
-        --uma nova e intensa camada de privacidade foi criada só para os canais, <br /><br /></span
-      ><span class="text-2xl"
-        >--a tecnologia por trás do envio de mensagens foi reformulada; <br /><br /></span
-      ><span class="text-2xl">
-        --a moderação de conteúdo foi tomada emprestada de Facebook e Instagram, outras das
-        plataformas da Meta.<br />
+      Intended to allow administrators to send content to an unlimited number of people, the
+      function has the potential to change the way you interact with WhatsApp. Straight away, she
+      already changed the way the application itself works, because: <br /><br />
+      <span class="text-4xl">
+        --a new and intense layer of privacy has been created just for channels, <br /><br /></span
+      ><span class="text-4xl"
+        >--the technology behind sending messages has been revamped; <br /><br /></span
+      ><span class="text-4xl">
+        --content moderation was borrowed from Facebook and Instagram, others Meta platforms.<br />
       </span>
     </div>
 
     <div class="p-2 px-14 mb-4">
-      Mas, calma, não é dessa vez que um algoritmo decidirá quais mensagens você vê ou não no app
-      mais usado do Brasil. A gente nunca viu broadcast de forma privada em nenhuma outra
-      plataforma. A gente está lançando um produto inédito no mercado Guilherme Horn, head do
-      WhatsApp no Brasil Canais similares aos que o WhatsApp lança agora já estão presentes no
-      Telegram há anos. O aplicativo russo não possui, porém, a proteção das informações dos
-      usuários como a proposta pelo serviço da Meta. Vai funcionar assim: Os usuários só entrarão
-      nos Canais por meio de um link; nada do que acontece hoje nos grupos, em que os
-      administradores podem incluir pessoas à revelia da vontade delas; O dono do canal não saberá
-      quem está lá dentro (isso inclui número de celular, nome, foto etc); os integrantes de um
-      desses espaços também não terão acesso aos dados uns dos outros; nem mesmo amigos saberão de
-      quais canais qualquer usuário participa; Todos os Canais virão silenciados de fábrica; se
-      quiserem, os membros terão que mudar as configurações para autorizar notificações.
+      But don't worry, this isn't the time when an algorithm will decide which messages you see or
+      don't see on the app. most used in Brazil. We have never seen private broadcasts anywhere else
+      platform. We are launching an unprecedented product on the market Guilherme Horn, head of
+      WhatsApp in Brazil Channels similar to those that WhatsApp launches are now present on
+      Telegram for years. The Russian application does not, however, protect user information. users
+      as proposed by the Meta service. It will work like this: Users will only enter on the Channels
+      through a link; nothing that happens today in groups, in which administrators can include
+      people without their will; The channel owner won't know who is inside (this includes cell
+      phone number, name, photo, etc.); the members of a these spaces will also not have access to
+      each other's data; not even friends will know about which channels any user participates in;
+      All Channels will be muted from the factory; if If they want, members will have to change
+      their settings to allow notifications.
     </div>
 
     <div class="p-2 px-14 mb-4">
-      <span class="text-2xl">Interação limitada <br /><br /></span>Os níveis de interação até
-      existem nos Canais, mas são limitados. Enquanto o administrador poderá mandar textos, áudios,
-      vídeos e imagens, os integrantes comuns poderão apenas atribuir emojis às mensagens. Ainda
-      assim, eles não verão como os outros membros reagiram. Quando os conteúdos forem encaminhados
-      para outros ambientes do WhatsApp, como conversas privadas, incluirão links para inscrição nos
-      canais de onde elas partiram. Diferentemente do que acontece em grupos, os usuários que
-      entrarem em um canal verão o conteúdo publicado por lá. Mas somente aquele postado nos 30 dias
-      anteriores.
+      <span class="text-4xl">Limited interaction <br /><br /></span>Interaction levels up to they
+      exist in the Channels, but they are limited. While the administrator can send texts, audios,
+      videos and images, regular members will only be able to assign emojis to messages. Yet that
+      way, they won't see how other members reacted. When content is forwarded for other WhatsApp
+      environments, such as private conversations, will include links to sign up for channels from
+      which they came. Unlike what happens in groups, users who If you enter a channel, you will see
+      the content published there. But only the one posted in the 30 days previous ones.
     </div>
 
     <div class="p-2 px-14 mb-4">
-      <span class="text-2xl">Duas estradas para mensagens <br /><br /></span>Outra diferença é que
-      as mensagens enviadas ali serão criptografadas, mas não de ponta-a-ponta, como ocorre em
-      outras partes do WhatsApp. Para fazer isso, os engenheiros da Meta criaram dois caminhos
-      diferentes dentro do aplicativo. Um para as mensagens criptografadas de ponta-a-ponta entre
-      remetente e destinatário. Outro entre o celular e o servidor para as mensagens dos Canais.
-      Newsletter Um boletim com as novidades e lançamentos da semana e um papo sobre novas
-      tecnologias. Toda sexta. Quero receber É uma parede de concreto, um muro que separa as duas
-      coisas. E é a tecnologia que permite isso. É como imaginar estradas separadas. São áreas
-      completamente independentes Guilherme Horn O executivo explica ainda que a decisão foi tomada
-      para não impedir que o novo recurso tivesse seu crescimento limitado. Não quer dizer, porém,
-      que essa é uma decisão irrevogável. Para qualquer produto que a Meta lança, e todas as Big
-      Techs fazem dessa forma, há um estágio para testar o comportamento dos usuários. Nesse
-      momento, estamos lançando canais criptografados. Não quer dizer que será sempre dessa forma
-      Guilherme Horn
+      <span class="text-4xl">Two roads for messages <br /><br /></span>Another difference is that
+      messages sent there will be encrypted, but not end-to-end, as occurs in other parts of
+      WhatsApp. To do this, Meta engineers created two paths different within the application. One
+      for end-to-end encrypted messages between sender and recipient. Another between the cell phone
+      and the server for Channel messages. Newsletter A bulletin with the week's news and releases
+      and a chat about new technologies. Every Friday. I want to receive It's a concrete wall, a
+      wall that separates the two things. And it is technology that allows this. It's like imagining
+      separate roads. These are areas completely independent Guilherme Horn The executive also
+      explains that the decision was made so as not to prevent the new resource from having its
+      growth limited. However, this does not mean that this is an irrevocable decision. For any
+      product that Meta launches, and all Big Techs do it this way, there is a stage to test user
+      behavior. In that We are currently launching encrypted channels. Doesn't mean it will always
+      be this way William Horn
     </div>
 
     <div class="p-2 px-14 mb-4">
-      <span class="text-2xl"
-        >Moderação de conteúdo à la Facebook <br /><br />É a ausência de criptografia de
-        ponta-a-ponta que permitirá que o WhatsApp modere o conteúdo que circular nesses grupos,
-        exatamente como funciona no Facebook e Instagram. Sem detalhar como funcionam os filtros, o
-        executivo explica que essa moderação combina um sistema automatizado movido a inteligência
-        artificial com o trabalho de seres humanos. "A quantidade de conteúdo postado não vai ser
-        diferente que a gente tem no Facebook e Instagram, e a moderação não é algo novo para a
-        Meta. Tudo que é conteúdo proibido por lei a gente vai restringir nos Canais", diz Horn.
-        Além de postagens ilegais, o WhatsApp aplica regras estabelecidas em diretrizes especiais
-        para os Canais, como proibir o compartilhamento de conteúdo que incite atividades ilícitas e
-        ou fraudulentas. As punições vão desde advertência aos administradores até a suspensão
-        completa do Canal.</span
+      <span class="text-4xl"
+        >Content moderation à la Facebook <br /><br />It is the absence of encryption end-to-end
+        solution that will allow WhatsApp to moderate the content that circulates in these groups,
+        exactly how it works on Facebook and Instagram. Without detailing how the filters work, the
+        executive explains that this moderation combines an automated system powered by intelligence
+        artificial with the work of human beings. "The amount of contentposted will not be different
+        than we have on Facebook and Instagram, and moderation is not something new for Goal. We
+        will restrict everything that is prohibited by law on the Channels", says Horn. In addition
+        to illegal posts, WhatsApp applies rules established in special guidelines for the Channels,
+        such as prohibiting the sharing of content that incites illicit activities and or
+        fraudulent. Punishments range from warnings to administrators to suspension complete
+        channel.</span
       >
     </div>
   </main>

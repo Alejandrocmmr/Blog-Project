@@ -1,6 +1,6 @@
 <template>
   <main class="border-4 p-1 text-xl mx-3">
-    <div class="text-6xl w-full text-center my-10">Exoprimal é divertido, mas não memorável</div>
+    <div class="text-6xl w-full text-center my-10">Exoprimal is fun but not memorable</div>
     <div class="p-2 mb-4 flex justify-center">
       <img
         src="../../../../assets/imgsToNews/GAMES1IMG.webp"
@@ -9,66 +9,63 @@
       />
     </div>
     <div class="p-2 px-14 mb-4">
-      Desenvolvido pela Capcom, Exoprimal une dois conceitos que já renderam muitos jogos, animes e
-      séries interessantes: dinossauros e exoesqueletos futuristas. Nele, os jogadores têm a missão
-      de, junto a quatro outras pessoas, derrotar ondas das criaturas jurássicas que literalmente
-      chovem do céu a partir de portais temporais, tudo isso para chegar a um destino antes da
-      equipe adversária.
+      Developed by Capcom, Exoprimal unites two concepts that have already yielded many games,
+      animes and interesting series: dinosaurs and futuristic exoskeletons. In it, players have the
+      mission to, together with four other people, defeat waves of Jurassic creatures that literally
+      rain from the sky from temporal portals, all to reach a destination before the opposing team.
     </div>
 
     <div class="p-2 px-14 mb-4">
-      Quando isso acontece, geralmente há dois desfechos. Ou a fase se encerra, premiando como
-      vencedor o time que conseguiu cumprir o objetivo mais rápido, ou há um pequeno embate direto
-      entre os dois lados competidores. No segundo caso há como o grupo que saiu atrás reverter sua
-      desvantagem, provando que é melhor no PvP e completando a missão de forma mais competente.
+      When this happens, there are usually two outcomes. Or the phase ends, rewarding as The team
+      that managed to achieve the objective the fastest wins, or there is a small direct clash
+      between the two competing sides. In the second case, the group that left behind can reverse
+      its disadvantage, proving that he is better at PvP and completing the mission more
+      competently.
     </div>
 
     <div class="p-2 px-14 mb-4">
-      Para o time adversário, resta ser devorado pelos dinossauros e receber uma quantidade menor de
-      pontos de experiência pelos seus esforços. Depois disso, basta reunir seus aprendizados com a
-      derrota ou a vitória e repetir tudo novamente em cenários com objetivos pouco variados entre
-      si, que podem ser encarados usando uma variedade competente de armaduras.
+      For the opposing team, it remains to be devoured by dinosaurs and receive a smaller amount of
+      experience points for your efforts. After that, just gather your learnings with the defeat or
+      victory and repeat everything again in scenarios with objectives that vary little between
+      themselves, which can be faced using a competent variety of armor.
     </div>
 
     <div class="p-2 px-14 mb-4">
-      <span class="text-2xl">Exoprimal tem uma história para contar <br /><br /></span> Descrevendo
-      o jogo de forma básica, parece que ele não tem muito a oferecer — impressão que seu primeiro
-      Beta fechado já havia deixado. No entanto, a Capcom soube adicionar ao título componentes que
-      fazem com que ele se eleve da mediocridade e estimulam o jogador a continuar jogando — mesmo
-      que não por tempo indeterminado. Para começar, Exoprimal tem uma história para contar — não
-      uma história sensacional, veja bem, mas algo divertido o suficiente para você querer continuar
-      buscando ver a próxima cena animada. Em um futuro distante, a humanidade começa a sofrer com
-      fenômenos estranhos que fazem com que dinossauros literalmente passem a “chover” em suas
-      principais cidades.
+      <span class="text-4xl">Exoprimal has a story to tell <br /><br /></span> Describing the game
+      in a basic way, it seems like it doesn't have much to offer — an impression that your first
+      Closed beta had already left. However, Capcom knew how to add components to the title that
+      make him rise from mediocrity and encourage the player to continue playing — even other than
+      indefinitely. For starters, Exoprimal has a story to tell — no a sensational story, mind you,
+      but something entertaining enough to make you want to continue looking to see the next
+      animated scene. In the distant future, humanity begins to suffer from strange phenomena that
+      cause dinosaurs to literally “rain” on their major cities.
     </div>
 
     <div class="p-2 px-14 mb-4">
-      Como forma de combatê-los são criadas várias exotrajes e a inteligência artificial Leviatã,
-      que tem como objetivo promover uma série de “Jogos de Guerra”. Neles, as vestimentas
-      tecnológicas são testadas em condições extremas com o objetivo de buscar aprimoramentos que as
-      tornem ainda melhores e resultem na roupa mecânica definitiva. No entanto, os testes logo dão
-      errados e o Leviatã passa a operar dentro de uma bolha temporal que envolve a ilha de Bikitoa.
-      O jogo começa a partir do momento em que o personagem controlado pelo jogador e sua equipe
-      acabam fazendo um pouso forçado no local e são obrigados a participar dos jogos enquanto
-      tentam encontrar um meio de escapar do ciclo infinito criado pela inteligência artificial.
+      As a way to combat them, several exosuits and the Leviathan artificial intelligence were
+      created, which aims to promote a series of “War Games”. In them, the clothes technological
+      technologies are tested in extreme conditions with the aim of seeking improvements that make
+      them even better and result in the ultimate mechanical suit. However, tests soon give wrong
+      and Leviathan starts to operate within a temporal bubble that surrounds the island of Bikitoa.
+      The game starts from the moment the character controlled by the player and his team end up
+      making a forced landing at the location and are forced to participate in the games while they
+      try to find a way to escape the infinite cycle created by artificial intelligence.
     </div>
 
     <div class="p-2 px-14 mb-4">
-      Envolvendo elementos como viagens no tempo, corrupção de grandes corporações e realidades
-      paralelas, a trama de Exoprimal é daquelas que não se leva muito a sério e pode ficar confusa
-      em muitos momentos. No entanto, ela é envolvente o suficiente para que o jogador continue
-      querendo saber o que acontece — pense nela como um filme de super-heróis, em que o mais
-      importante são as lutas e os efeitos especiais do que a narrativa central. A trama é contada
-      através de vários arquivos que o jogador coleta após as missões e são acessados através do
-      Menu “Mapa da Análise”, e por cenas de corte que são destravadas após números específicos de
-      partidas. O game sempre deixa claro quanto falta para uma animação ser ativada, o que acaba
-      servindo como estímulo para fazer “somente uma partida a mais” durante o dia. No entanto, a
-      maior parte da trama acontece mesmo no Mapa de Análise, que pode ser totalmente ignorado pelos
-      jogadores. Só fique atento ao fato de que, a partir de certo ponto da trama, decidir por isso
-      pode fazer com que algumas cenas e reviravoltas percam um pouco de sentido. Em geral, a
-      maneira que a Capcom escolheu para contar sua história é funcional, mesmo que não possa ser
-      considerada totalmente ideal, por permitir que elementos-chave sejam perdidos com certa
-      facilidade.
+      Involving elements such as time travel, corruption of large corporations and realities
+      parallels, Exoprimal's plot is one that doesn't take itself too seriously and can get
+      confusing at many times. However, it is engaging enough for the player to continue wondering
+      what happens — think of it as a superhero movie, where the most The fights and special effects
+      are more important than the central narrative. The plot is told through various files that the
+      player collects after missions and are accessed through the “Analysis Map” menu, and by cut
+      scenes that are unlocked after specific numbers of matches. The game always makes it clear how
+      long it takes for an animation to be activated, which ends up serving as an incentive to play
+      “just one more game” during the day. However, the Most of the plot takes place in the Analysis
+      Map, which can be completely ignored by players. Just be aware that, after a certain point in
+      the plot, deciding to can make some scenes and twists lose a little meaning. In general, the
+      The way Capcom chose to tell its story is functional, even if it can't be considered
+      completely ideal, as it allows key elements to be lost with certain ease.
     </div>
   </main>
 </template>

@@ -10,7 +10,7 @@
       >
 
       <span class="text-4xl text w-32 h-auto prevent-select">
-        <RouterLink to="/posts"> Comunity </RouterLink></span
+        <RouterLink to="/Comunity"> Comunity </RouterLink></span
       >
       <span class="text-4xl text w-32 h-auto prevent-select">
         <RouterLink to="/Contact"> Contact </RouterLink></span
