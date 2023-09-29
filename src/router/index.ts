@@ -23,6 +23,11 @@ const router = createRouter({
       component: () => import('../views/ComunityView.vue')
     },
     {
+      path: '/Comunity/NewPost',
+      name: 'NewPost',
+      component: () => import('../components/Comunity/CreatePosts.vue')
+    },
+    {
       path: '/Contact',
       name: 'Contact',
       component: () => import('../views/ContactView.vue')

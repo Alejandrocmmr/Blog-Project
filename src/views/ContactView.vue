@@ -34,9 +34,8 @@ const formSend = ref({
 })
 
 const formReceive = ref({
-  name: 'alejandro',
-  email: 'alejandro@gmail.com',
-  message: 'TESTANDO '
+  name: '',
+  email: ''
 })
 
 const conectionReceive = async () => {

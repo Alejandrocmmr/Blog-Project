@@ -29,62 +29,81 @@
   ],
   "ComunityMessage": [
     {
-      "name": "example~z",
-      "email": "examplezezezeze",
-      "messagePosted": "examplezazazaza",
-      "titleofpost": "example1",
-      "id": "0"
-    },{
-      "name": "exampless",
-      "email": "examplessesesese",
-      "messagePosted": "examplesasasasasa",
-      "titleofpost": "example2",
-      "id": "1"
-    },{
       "name": "exampled",
       "email": "examplededede",
       "messagePosted": "exampledadadadada",
       "titleofpost": "example3",
-      "id": "2"
-    },{
-      "name": "example~awdawdz",
-      "email": "examplezezezadwdaweze",
-      "messagePosted": "examplezazazaawedza",
+      "id": 2
+    },
+    {
+      "name": "example11",
+      "email": "example11",
+      "messagePosted": "exampledadadadada",
       "titleofpost": "example1",
-      "id": "3"
-    },{
-      "name": "example~awddawdawdawdz",
-      "email": "examplezezezadwddawdawdawaweze",
-      "messagePosted": "examplezazazawdawdawdawaawedza",
-      "titleofpost": "example1",
-      "id": "4"
-    },{
-      "name": "example~awdaawdawdawdwdz",
-      "email": "examplezezezadwdadawdawdweze",
-      "messagePosted": "examplezazazdawdawdawaawedza",
-      "titleofpost": "example1",
-      "id": "5"
-    },{
-      "name": "example~awdadawdawdawwdz",
-      "email": "examplezezezadwdaawdawdawweze",
-      "messagePosted": "examplezazazawdawdawaawedza",
-      "titleofpost": "example1",
-      "id": "6"
+      "id": 1
+    },
+    {
+      "name": "example2",
+      "email": "examplededede",
+      "messagePosted": "exampledadadadada",
+      "titleofpost": "example2",
+      "id": 0
     }
   ],
   "ComunityPosts": [
     {
-      "creator":"example11",
+      "creator": "example11",
+      "creatorMail": "example11",
       "title": "example1",
-      "id": "0"
-    },{
-      "creator":"example222",
+      "id": 0
+    },
+    {
+      "creator": "example222",
+      "creatorMail": "example222",
       "title": "example2",
-      "id": "1"
-    },{
-      "creator":"example333",
+      "id": 1
+    },
+    {
+      "creator": "example333",
+      "creatorMail": "example333",
       "title": "example3",
-      "id": "2"
+      "id": 2
+    },
+    {
+      "creator": "wad",
+      "creatorMail": "alerandro2003ii@gmail.com",
+      "title": "awdaw",
+      "id": 3
+    },
+    {
+      "creator": "wad",
+      "creatorMail": "alerandro2003ii@gmail.com",
+      "title": "awdawd",
+      "id": 4
+    },
+    {
+      "creator": "wad",
+      "creatorMail": "alejandrowork2003@gmail.com",
+      "title": "awdawdawdawdawd",
+      "id": 5
+    },
+    {
+      "creator": "awdwaawddddddawd",
+      "creatorMail": "dawdawd@gmail.com",
+      "title": "dawdawawdawdawdawdawdawdawdawdawdawdawddawawdawdawdawddawdawdawdawdawdawdawdawdawdwadd",
+      "id": 6
+    },
+    {
+      "creator": "awdwadawd",
+      "creatorMail": "dawdawd@gmail.com",
+      "title": "dawdawd",
+      "id": 7
+    },
+    {
+      "creator": "awdwadawd",
+      "creatorMail": "dawdawd@gmail.com",
+      "title": "dawdawd",
+      "id": 8
     }
   ]
 }

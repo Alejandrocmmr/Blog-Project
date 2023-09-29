@@ -100,7 +100,7 @@ let DeletePost = async (title: any, name: any, id: any, creatorMail: any) => {
           for (let res of re.data) {
             if (res.titleofpost == title) {
               messagesToDelete.value.push(res)
-         
+              console.log(messagesToDelete.value)
               for (let messagetodelete of messagesToDelete.value) {
                 idToDelete.value = messagetodelete.id
                 axios({
@@ -124,50 +124,13 @@ let DeletePost = async (title: any, name: any, id: any, creatorMail: any) => {
         })
       }
 
-      let checkIFDeleted = async ()=>{
-        let res
-        let HaveMessage:any 
-        axios({
-          url:"http://localhost:3000/ComunityMessage",
-          method:"get"
-        }).then(function (re){
-          
-          
-          for (res of re.data) {
-          
-            if(res.titleofpost == title){
-              HaveMessage = []
-              HaveMessage.push(res)
-              console.log(HaveMessage)
-              
-              
-            }
-            if(HaveMessage == undefined){
-              funcdeleteP()
-              location.reload()
-            }else{
-              alert("Something Error, Do The Process Again")
-            }
-            
-          }
-
-
-        })
-
-      }
+      funcdeleteP()
       FuncDelete()
-      setTimeout(() => {
-        checkIFDeleted()
-      },1000);
-      
-      
     }
   } else {
     return "We Couldn't Delete"
   }
 }
-
-
 </script>
 
 <template>
