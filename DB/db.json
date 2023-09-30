@@ -13,18 +13,6 @@
       "email": "joaquin@gmail.com.br",
       "message": "teste de mensagem",
       "id": 0
-    },
-    {
-      "name": "alejandro",
-      "email": "alejandro@gmail.com",
-      "message": " example",
-      "id": 1
-    },
-    {
-      "name": "alejandro",
-      "email": "alejandro@gmail.com",
-      "message": " example",
-      "id": 2
     }
   ],
   "ComunityMessage": [
@@ -41,34 +29,6 @@
       "messagePosted": "exampledadadadada",
       "titleofpost": "example2",
       "id": 0
-    },
-    {
-      "name": "alejandro",
-      "email": "alejandro@gmail.com",
-      "messagePosted": " olha meu conrade",
-      "titleofpost": "example1",
-      "id": 3
-    },
-    {
-      "name": "alejandro",
-      "email": "alerandro2003ii@gmail.com",
-      "messagePosted": " awdawdwadawd",
-      "titleofpost": "awdawd",
-      "id": 5
-    },
-    {
-      "name": "alejandro",
-      "email": "alejandrowork2003@gmail.com",
-      "messagePosted": " awdwadaw",
-      "titleofpost": "example3",
-      "id": 6
-    },
-    {
-      "name": "alejandro",
-      "email": "ale@hotmail.com",
-      "messagePosted": " teste",
-      "titleofpost": "how to do a comment here?",
-      "id": 7
     }
   ],
   "ComunityPosts": [
@@ -89,48 +49,6 @@
       "creatorMail": "example333",
       "title": "example3",
       "id": 2
-    },
-    {
-      "creator": "wad",
-      "creatorMail": "alerandro2003ii@gmail.com",
-      "title": "awdaw",
-      "id": 3
-    },
-    {
-      "creator": "wad",
-      "creatorMail": "alerandro2003ii@gmail.com",
-      "title": "awdawd",
-      "id": 4
-    },
-    {
-      "creator": "wad",
-      "creatorMail": "alejandrowork2003@gmail.com",
-      "title": "awdawdawdawdawd",
-      "id": 5
-    },
-    {
-      "creator": "awdwaawddddddawd",
-      "creatorMail": "dawdawd@gmail.com",
-      "title": "dawdawawdawdawdawdawdawdawdawdawdawdawddawawdawdawdawddawdawdawdawdawdawdawdawdawdwadd",
-      "id": 6
-    },
-    {
-      "creator": "awdwadawd",
-      "creatorMail": "dawdawd@gmail.com",
-      "title": "dawdawd",
-      "id": 7
-    },
-    {
-      "creator": "awdwadawd",
-      "creatorMail": "dawdawd@gmail.com",
-      "title": "dawdawd",
-      "id": 8
-    },
-    {
-      "creator": "alejandro",
-      "creatorMail": "alejandrowork2003@gmail.com",
-      "title": "how to do a comment here?",
-      "id": 9
     }
   ]
 }

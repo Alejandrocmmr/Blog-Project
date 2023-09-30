@@ -146,7 +146,7 @@ const deleteMessage = async (id: any) => {
             v-model="formSend.message"
             maxlength="500"
             required
-            rows="4"
+            rows="3"
           ></textarea>
         </div>
         <button

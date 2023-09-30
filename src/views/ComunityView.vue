@@ -229,52 +229,56 @@ const DeleteComment = (id: any, email: any) => {
               @click="DeletePost(titleCharged, nameCharged, idCharged, CreatorMailCharged)"
               type="submit"
               value=""
-              class="w-48 text-center border h-8 text-sl break-all"
+              class="w-48 text-center border h-8 text-sl break-all mr-3"
             >
               Delete The Post
             </button>
           </div>
           <div class="flex w-full border-t-2 h-32 pt-2 items-center">
-            <Span class="w-64 text-2xl h-14 pl-1">Title Of The Page :</Span>
+            <Span class="w-60 text-2xl h-14 pl-1">Title Of The Page :</Span>
             <p class="w-full text-center h-20 text-3xl break-all">
               {{ titleCharged }}
             </p>
           </div>
         </div>
-        <form action="#" method="post" @submit.prevent="SendNewComment" >
-          <label for="NewMessageName">Your Name</label>
+        <form action="#" method="post" @submit.prevent="SendNewComment" class="flex flex-col">
+          <label for="NewMessageName" class="mx-2 border-2 w-fit px-1 mt-2">Your Name : </label>
           <input
+          class="mx-2 border-2 border-black px-2 w-auto mt-2"
             type="text"
             name="NewMessageName"
             placeholder="Name Example"
             id="NewMessageName"
             v-model="NewComment.name"
+            required
           />
 
-          <label for="NewMessageMail">Your email</label>
+          <label for="NewMessageMail" class="mx-2 border-2 w-fit px-1 mt-2">Your email : </label>
           <input
+          class="mx-2 border-2 border-black px-2 w-auto mt-2"
             type="email"
             name="NewMessageMail"
             placeholder="name@domain.example"
             id="NewMessageMail"
             v-model="NewComment.email"
+            required
           />
 
-          <label for="NewMessageComment">Your Comment For Us</label>
+          <label for="NewMessageComment" class="mx-2 border-2 w-fit px-1 mt-2">Your Comment For Us: </label>
           <textarea
-            class="w-full rounded-md px-2.5 py-1 text-2xl input max-h-64"
+            class=" rounded-md py-1 text-2xl border-black px-1 max-h-44 mx-2 border-2 w-auto mt-2"
             name="NewMessageComment"
             id="NewMessageMessage"
             placeholder="Your Comment Here"
             v-model="NewComment.message"
             maxlength="150"
             required
-            rows="4"
+            rows="2"
           ></textarea>
           <button
             type="submit"
             id=""
-            class=" text-xl mx-auto h-10 w-2/12 flex items-center justify-center flex-col mb-8 border-2 rounded-lg bg-gray-500"
+            class="mt-3 text-xl mx-auto h-10 w-2/12 flex items-center justify-center flex-col mb-3 border-2 rounded-lg bg-gray-500"
           >
             Send Your Comment
           </button>
