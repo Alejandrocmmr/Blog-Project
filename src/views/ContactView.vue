@@ -18,9 +18,7 @@ const conectionSend = async () => {
         message: formSend.value.message
       }
     }).then(function (response) {
-      console.log(response.data)
       console.log(response.status)
-      console.log(response.request)
     })
   } catch (error) {
     console.log(error)
@@ -73,10 +71,9 @@ const deleteMessage = async (id: any) => {
         url: `http://localhost:3000/Messages/${id}`,
         method: 'delete'
       }).then(function (re) {
-        console.log(re.data)
+     
         console.log(re.status)
-        console.log(re.config)
-        console.log(re.headers)
+
       })
     } catch (error) {
       console.log(error)

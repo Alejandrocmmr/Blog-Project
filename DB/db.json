@@ -36,18 +36,39 @@
       "id": 2
     },
     {
-      "name": "example11",
-      "email": "example11",
-      "messagePosted": "exampledadadadada",
-      "titleofpost": "example1",
-      "id": 1
-    },
-    {
       "name": "example2",
       "email": "examplededede",
       "messagePosted": "exampledadadadada",
       "titleofpost": "example2",
       "id": 0
+    },
+    {
+      "name": "alejandro",
+      "email": "alejandro@gmail.com",
+      "messagePosted": " olha meu conrade",
+      "titleofpost": "example1",
+      "id": 3
+    },
+    {
+      "name": "alejandro",
+      "email": "alerandro2003ii@gmail.com",
+      "messagePosted": " awdawdwadawd",
+      "titleofpost": "awdawd",
+      "id": 5
+    },
+    {
+      "name": "alejandro",
+      "email": "alejandrowork2003@gmail.com",
+      "messagePosted": " awdwadaw",
+      "titleofpost": "example3",
+      "id": 6
+    },
+    {
+      "name": "alejandro",
+      "email": "ale@hotmail.com",
+      "messagePosted": " teste",
+      "titleofpost": "how to do a comment here?",
+      "id": 7
     }
   ],
   "ComunityPosts": [
@@ -104,6 +125,12 @@
       "creatorMail": "dawdawd@gmail.com",
       "title": "dawdawd",
       "id": 8
+    },
+    {
+      "creator": "alejandro",
+      "creatorMail": "alejandrowork2003@gmail.com",
+      "title": "how to do a comment here?",
+      "id": 9
     }
   ]
 }

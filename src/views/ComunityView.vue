@@ -15,7 +15,7 @@ const GetPosts = async () => {
       let datas = re.data
 
       for (data of datas) {
-        ComunityPosts.value.push(data)
+        ComunityPosts.value.unshift(data)
       }
     })
   } catch (error) {
@@ -60,7 +60,7 @@ const GetMessages = async (title: any, creator: any, id: any, creatorMail: any) 
   changeMessagePage.value = 'Display:inherit'
 }
 
-let DeletePost = async (title: any, name: any, id: any, creatorMail: any) => {
+const DeletePost = async (title: any, name: any, id: any, creatorMail: any) => {
   let firstCheck = prompt('Please Put The Name Of The Creator')
 
   let firstOn
@@ -100,7 +100,7 @@ let DeletePost = async (title: any, name: any, id: any, creatorMail: any) => {
           for (let res of re.data) {
             if (res.titleofpost == title) {
               messagesToDelete.value.push(res)
-         
+
               for (let messagetodelete of messagesToDelete.value) {
                 idToDelete.value = messagetodelete.id
                 axios({
@@ -124,50 +124,89 @@ let DeletePost = async (title: any, name: any, id: any, creatorMail: any) => {
         })
       }
 
-      let checkIFDeleted = async ()=>{
+      let checkIFDeleted = async () => {
         let res
-        let HaveMessage:any 
+        let HaveMessage: any
         axios({
-          url:"http://localhost:3000/ComunityMessage",
-          method:"get"
-        }).then(function (re){
-          
-          
+          url: 'http://localhost:3000/ComunityMessage',
+          method: 'get'
+        }).then(function (re) {
           for (res of re.data) {
-          
-            if(res.titleofpost == title){
+            if (res.titleofpost == title) {
               HaveMessage = []
               HaveMessage.push(res)
               console.log(HaveMessage)
-              
-              
             }
-            if(HaveMessage == undefined){
+            if (HaveMessage == undefined) {
               funcdeleteP()
               location.reload()
-            }else{
-              alert("Something Error, Do The Process Again")
+            } else {
+              alert('Something Error, Do The Process Again')
             }
-            
           }
-
-
         })
-
       }
       FuncDelete()
       setTimeout(() => {
         checkIFDeleted()
-      },1000);
-      
-      
+      }, 1000)
     }
   } else {
     return "We Couldn't Delete"
   }
 }
 
+const NewComment = ref({
+  name: '',
+  email: '',
+  message: ' '
+})
 
+const SendNewComment = async () => {
+  try {
+    await axios({
+      url: 'http://localhost:3000/ComunityMessage',
+      method: 'post',
+      data: {
+        name: NewComment.value.name,
+        email: NewComment.value.email,
+        messagePosted: NewComment.value.message,
+        titleofpost: titleCharged.value
+      }
+    }).then(function (response) {
+      alert('Comment Posted')
+      location.reload()
+      console.log(response.status)
+    })
+  } catch (error) {
+    console.log(error)
+  }
+}
+
+const DeleteComment = (id: any, email: any) => {
+  let question = prompt('Write The Email Of Who Comment To delete')
+  if (question == email) {
+    if (confirm('Are you sure about delete this message?')) {
+      try {
+        axios({
+          url: `http://localhost:3000/ComunityMessage/${id}`,
+          method: 'delete'
+        }).then(function (re) {
+          console.log(re.status)
+        })
+      } catch (error) {
+        console.log(error)
+      }
+
+      alert('Comment Deleted')
+      location.reload()
+    } else {
+      alert('You canceled the Delete Process!')
+    }
+  } else {
+    alert('Wrong Email')
+  }
+}
 </script>
 
 <template>
@@ -182,7 +221,7 @@ let DeletePost = async (title: any, name: any, id: any, creatorMail: any) => {
       <section class="w-full h-auto flex-col overflow-scroll" :style="changeMessagePage">
         <div class="flex flex-col justify-center items-center border-4 h-64">
           <div class="flex w-full h-28 pt-2 items-center">
-            <p class="w-80 text-2xl pl-1 h-14">Name of the creator :</p>
+            <Span class="w-80 text-2xl pl-1 h-14">Name of the creator :</Span>
             <p class="w-full text-center h-10 text-2xl mb-2 pl-32">
               {{ nameCharged }}
             </p>
@@ -196,20 +235,69 @@ let DeletePost = async (title: any, name: any, id: any, creatorMail: any) => {
             </button>
           </div>
           <div class="flex w-full border-t-2 h-32 pt-2 items-center">
-            <p class="w-60 text-2xl h-14 pl-1">Title Of The Page :</p>
+            <Span class="w-64 text-2xl h-14 pl-1">Title Of The Page :</Span>
             <p class="w-full text-center h-20 text-3xl break-all">
               {{ titleCharged }}
             </p>
           </div>
         </div>
+        <form action="#" method="post" @submit.prevent="SendNewComment" >
+          <label for="NewMessageName">Your Name</label>
+          <input
+            type="text"
+            name="NewMessageName"
+            placeholder="Name Example"
+            id="NewMessageName"
+            v-model="NewComment.name"
+          />
+
+          <label for="NewMessageMail">Your email</label>
+          <input
+            type="email"
+            name="NewMessageMail"
+            placeholder="name@domain.example"
+            id="NewMessageMail"
+            v-model="NewComment.email"
+          />
+
+          <label for="NewMessageComment">Your Comment For Us</label>
+          <textarea
+            class="w-full rounded-md px-2.5 py-1 text-2xl input max-h-64"
+            name="NewMessageComment"
+            id="NewMessageMessage"
+            placeholder="Your Comment Here"
+            v-model="NewComment.message"
+            maxlength="150"
+            required
+            rows="4"
+          ></textarea>
+          <button
+            type="submit"
+            id=""
+            class=" text-xl mx-auto h-10 w-2/12 flex items-center justify-center flex-col mb-8 border-2 rounded-lg bg-gray-500"
+          >
+            Send Your Comment
+          </button>
+        </form>
         <div
-          class="border mt-4 h-32"
+          class="border mt-4 h-38 mb-4"
           v-for="ComunityMessage in ComunityMessages"
           :key="ComunityMessage.id"
         >
-          <div class="flex flex-col text-xl items-center py-4">
-            <p class="text-2xl h-10">{{ ComunityMessage.name }}</p>
-            <p class="h-10">{{ ComunityMessage.messagePosted }}</p>
+          <div class="flex flex-col text-xl items-start py-4 ml-7">
+            <p class="text-2xl h-10">
+              <Span class="text-red-800">Who Comments: </Span> {{ ComunityMessage.name }}
+            </p>
+            <p class="h-10">
+              <Span class="text-red-800">Your Comment: </Span>{{ ComunityMessage.messagePosted }}
+            </p>
+            <button
+              type="button"
+              @click="DeleteComment(ComunityMessage.id, ComunityMessage.email)"
+              class="border-2 p-1 text-xs flex-col-reverse"
+            >
+              Delete This Comment?
+            </button>
           </div>
         </div>
       </section>
@@ -249,6 +337,9 @@ let DeletePost = async (title: any, name: any, id: any, creatorMail: any) => {
   color: black;
 }
 
+span {
+  color: #931f1f;
+}
 .pde {
   border: 3px #66fcf1 solid;
 }
